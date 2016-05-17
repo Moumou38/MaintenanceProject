@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 863609039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d09176080536aee5341493915e25a74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a8e450517f22b4791c3fc621f9646496
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/datas/3D/highlight/rafale_highlight_04_perche.fbx
+- Assets/datas/3D/highlight/rafale_highlight_02.fbx
+- Assets/datas/3D/highlight/rafale_highlight_14_bsdm.fbx
+- Assets/datas/Scenarii/DailyInspection/project.xml
+- Assets/datas/3D/highlight/rafale_highlight_04_feux_formation_droite.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_FMA_down.fbx
+- Assets/datas/3D/highlight/rafale_highlight_06.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_cone_radar.fbx
+- Assets/datas/3D/highlight/rafale_highlight_14.fbx
+- Assets/datas/3D/highlight/rafale_highlight_07_c2.fbx
+- Assets/datas/3D/highlight/rafale_highlight_13.fbx
+- Assets/datas/3D/highlight/rafale_highlight_03.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_OSF2.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_FMA_up.fbx
+- Assets/datas/3D/animations/Trappe_mecanicien/anim_trappe_mecanicien.fbx
+- Assets/datas/3D/highlight/rafale_highlight_19.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_verriere.fbx
+- Assets/datas/3D/highlight/rafale_highlight_11.fbx
+- Assets/datas/3D/highlight/rafale_highlight_09.fbx
+- Assets/datas/3D/animations/anim_bsdm.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_DAL_gauche.fbx
+- Assets/datas/Scenarii/DailyInspection/VJ-FIG16.png
+- Assets/datas/3D/highlight/rafale_highlight_04_OSF1.fbx
+- Assets/datas/3D/highlight/rafale_highlight_10.fbx
+- Assets/datas/Scenarii/DailyInspection/VJ-FIG01.png
+- Assets/datas/3D/highlight/rafale_highlight_12.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_sonde_droite.fbx
+- Assets/datas/3D/highlight/rafale_highlight_07.fbx
+- Assets/datas/3D/highlight/rafale_highlight_15.fbx
+- Assets/datas/3D/highlight/rafale_highlight_05.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04.fbx
+- Assets/datas/3D/highlight/rafale_highlight_08.fbx
+- Assets/datas/3D/animations/anim_sonde.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_DAL_droite.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_sonde_gauche.fbx
+- Assets/datas/3D/highlight/rafale_highlight_13_c1.fbx
+- Assets/datas/3D/highlight/rafale_highlight_04_feux_formation_gauche.fbx
+- Assets/datas/Scenarii/DailyInspection/VJ-FIG15.png
+Dependencies: []

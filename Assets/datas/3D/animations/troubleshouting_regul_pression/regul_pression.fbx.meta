@@ -1,0 +1,1699 @@
+fileFormatVersion: 2
+guid: 1882645ac06bd7249b2d1bbd42b54c58
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cercle1_1
+    100002: cercle2_1
+    100004: grand_fond_droite1
+    100006: grand_fond_gauche1
+    100008: grp_cercle1_1
+    100010: grp_cercle2_1
+    100012: grp_cercles1
+    100014: grp_panel_droite
+    100016: grp_panel_gauche1
+    100018: grp_REGULATEUR_DE_PRESSION
+    100020: grp_titre_gauche1
+    100022: grp_txt1_droite1
+    100024: grp_txt1_gauche1
+    100026: grp_txt1_gauche1_1
+    100028: grp_txt2_droite1
+    100030: grp_txt2_gauche2_1
+    100032: grp_txt2_gauche2_1 1
+    100034: grp_txt_droite2_5
+    100036: grp_txt_droite3_5
+    100038: grp_txt_droite4_5
+    100040: grp_txt_droite5_5
+    100042: grp_txt_droite6_5
+    100044: grp_txt_droite7_5
+    100046: grp_txt_droite8_5
+    100048: grp_txt_droite_titre1_5
+    100050: petit_fond_droite_REGUL
+    100052: petit_fond_gauche1
+    100054: //RootNode
+    100056: REGULATEUR_DE_PRESSION
+    100058: REGULATEUR_DE_PRESSION_rouge
+    100060: titre_gauche1
+    100062: titre_gauche10
+    100064: titre_gauche11
+    100066: titre_gauche12
+    100068: titre_gauche13
+    100070: titre_gauche14
+    100072: titre_gauche15
+    100074: titre_gauche16
+    100076: titre_gauche17
+    100078: titre_gauche18
+    100080: titre_gauche19
+    100082: titre_gauche2
+    100084: titre_gauche3
+    100086: titre_gauche4
+    100088: titre_gauche5
+    100090: titre_gauche6
+    100092: titre_gauche7
+    100094: titre_gauche8
+    100096: titre_gauche9
+    100098: trait2_droite1
+    100100: trait_gauche1_1
+    100102: trait_gauche2_1
+    100104: trait_gauche3_1
+    100106: trait_gauche4_1
+    100108: txt1_droite1_1
+    100110: txt1_droite2_1
+    100112: txt1_droite3_1
+    100114: txt1_droite4_1
+    100116: txt1_gauche2_10_1
+    100118: txt1_gauche2_11_1
+    100120: txt1_gauche2_12_1
+    100122: txt1_gauche2_13_1
+    100124: txt1_gauche2_14_1
+    100126: txt1_gauche2_15_1
+    100128: txt1_gauche2_16_1
+    100130: txt1_gauche2_17_1
+    100132: txt1_gauche2_18_1
+    100134: txt1_gauche2_19_1
+    100136: txt1_gauche2_1_1
+    100138: txt1_gauche2_20_1
+    100140: txt1_gauche2_21_1
+    100142: txt1_gauche2_22_1
+    100144: txt1_gauche2_23_1
+    100146: txt1_gauche2_24_1
+    100148: txt1_gauche2_25_1
+    100150: txt1_gauche2_26_1
+    100152: txt1_gauche2_27_1
+    100154: txt1_gauche2_28_1
+    100156: txt1_gauche2_29_1
+    100158: txt1_gauche2_2_1
+    100160: txt1_gauche2_30_1
+    100162: txt1_gauche2_31_1
+    100164: txt1_gauche2_32_1
+    100166: txt1_gauche2_33_1
+    100168: txt1_gauche2_34_1
+    100170: txt1_gauche2_35_1
+    100172: txt1_gauche2_36_1
+    100174: txt1_gauche2_37_1
+    100176: txt1_gauche2_3_1
+    100178: txt1_gauche2_40_1
+    100180: txt1_gauche2_41_1
+    100182: txt1_gauche2_42_1
+    100184: txt1_gauche2_4_1
+    100186: txt1_gauche2_5_1
+    100188: txt1_gauche2_6_1
+    100190: txt1_gauche2_7_1
+    100192: txt1_gauche2_8_1
+    100194: txt1_gauche2_9_1
+    100196: txt2_droite1_1
+    100198: txt2_droite2_1
+    100200: txt2_droite3_1
+    100202: txt2_droite4_1
+    100204: txt2_gauche2_10_1
+    100206: txt2_gauche2_11_1
+    100208: txt2_gauche2_12_1
+    100210: txt2_gauche2_13_1
+    100212: txt2_gauche2_14_1
+    100214: txt2_gauche2_15_1
+    100216: txt2_gauche2_16_1
+    100218: txt2_gauche2_17_1
+    100220: txt2_gauche2_18_1
+    100222: txt2_gauche2_19_1
+    100224: txt2_gauche2_1_1
+    100226: txt2_gauche2_20_1
+    100228: txt2_gauche2_21_1
+    100230: txt2_gauche2_22_1
+    100232: txt2_gauche2_23_1
+    100234: txt2_gauche2_24_1
+    100236: txt2_gauche2_25_1
+    100238: txt2_gauche2_26_1
+    100240: txt2_gauche2_27_1
+    100242: txt2_gauche2_28_1
+    100244: txt2_gauche2_29_1
+    100246: txt2_gauche2_2_1
+    100248: txt2_gauche2_30_1
+    100250: txt2_gauche2_31_1
+    100252: txt2_gauche2_32_1
+    100254: txt2_gauche2_33_1
+    100256: txt2_gauche2_34_1
+    100258: txt2_gauche2_35_1
+    100260: txt2_gauche2_36_1
+    100262: txt2_gauche2_37_1
+    100264: txt2_gauche2_38_1
+    100266: txt2_gauche2_39_1
+    100268: txt2_gauche2_3_1
+    100270: txt2_gauche2_40_1
+    100272: txt2_gauche2_41_1
+    100274: txt2_gauche2_42_1
+    100276: txt2_gauche2_43_1
+    100278: txt2_gauche2_44_1
+    100280: txt2_gauche2_45_1
+    100282: txt2_gauche2_46_1
+    100284: txt2_gauche2_47_1
+    100286: txt2_gauche2_48_1
+    100288: txt2_gauche2_49_1
+    100290: txt2_gauche2_4_1
+    100292: txt2_gauche2_50_1
+    100294: txt2_gauche2_51_1
+    100296: txt2_gauche2_5_1
+    100298: txt2_gauche2_6_1
+    100300: txt2_gauche2_7_1
+    100302: txt2_gauche2_8_1
+    100304: txt2_gauche2_9_1
+    100306: txt_droite_titre66
+    100308: txt_droite_titre67
+    100310: txt_droite_titre68
+    100312: txt_droite_titre69
+    100314: txt_droite_titre70
+    100316: txt_droite_titre71
+    100318: txt_droite_titre73
+    100320: txt_droite_titre74
+    100322: txt_droite_titre75
+    100324: txt_droite_titre76
+    100326: txt_droite_titre77
+    100328: txt_droite_titre78
+    100330: txt_gauche10_1
+    100332: txt_gauche11_1
+    100334: txt_gauche12_1
+    100336: txt_gauche1_1
+    100338: txt_gauche2_1
+    100340: txt_gauche3_1
+    100342: txt_gauche4_1
+    100344: txt_gauche5_1
+    100346: txt_gauche6_1
+    100348: txt_gauche7_1
+    100350: txt_gauche8_1
+    100352: txt_gauche9_1
+    100354: txt_REGULATEUR_DE_PRESSION
+    100356: txt_txt_droite2_66
+    100358: txt_txt_droite2_67
+    100360: txt_txt_droite2_68
+    100362: txt_txt_droite2_77
+    100364: txt_txt_droite2_78
+    100366: txt_txt_droite2_79
+    100368: txt_txt_droite3_66
+    100370: txt_txt_droite3_67
+    100372: txt_txt_droite3_68
+    100374: txt_txt_droite3_69
+    100376: txt_txt_droite3_76
+    100378: txt_txt_droite3_77
+    100380: txt_txt_droite3_78
+    100382: txt_txt_droite3_79
+    100384: txt_txt_droite4_66
+    100386: txt_txt_droite4_67
+    100388: txt_txt_droite4_68
+    100390: txt_txt_droite4_69
+    100392: txt_txt_droite4_75
+    100394: txt_txt_droite4_76
+    100396: txt_txt_droite4_77
+    100398: txt_txt_droite4_78
+    100400: txt_txt_droite4_79
+    100402: txt_txt_droite5_66
+    100404: txt_txt_droite5_67
+    100406: txt_txt_droite5_77
+    100408: txt_txt_droite5_78
+    100410: txt_txt_droite5_79
+    100412: txt_txt_droite6_66
+    100414: txt_txt_droite6_67
+    100416: txt_txt_droite6_77
+    100418: txt_txt_droite6_78
+    100420: txt_txt_droite6_79
+    100422: txt_txt_droite7_65
+    100424: txt_txt_droite7_66
+    100426: txt_txt_droite7_67
+    100428: txt_txt_droite7_68
+    100430: txt_txt_droite7_69
+    100432: txt_txt_droite7_70
+    100434: txt_txt_droite7_71
+    100436: txt_txt_droite7_72
+    100438: txt_txt_droite7_73
+    100440: txt_txt_droite7_74
+    100442: txt_txt_droite7_75
+    100444: txt_txt_droite7_76
+    100446: txt_txt_droite7_77
+    100448: txt_txt_droite7_78
+    100450: txt_txt_droite7_79
+    100452: txt_txt_droite7_80
+    100454: txt_txt_droite8_65
+    100456: txt_txt_droite8_67
+    100458: txt_txt_droite8_68
+    100460: txt_txt_droite8_69
+    100462: txt_txt_droite8_70
+    100464: txt_txt_droite8_71
+    100466: txt_txt_droite8_72
+    100468: txt_txt_droite8_73
+    100470: txt_txt_droite8_74
+    100472: txt_txt_droite8_75
+    100474: txt_txt_droite8_76
+    100476: txt_txt_droite8_77
+    100478: txt_txt_droite8_80
+    400000: cercle1_1
+    400002: cercle2_1
+    400004: grand_fond_droite1
+    400006: grand_fond_gauche1
+    400008: grp_cercle1_1
+    400010: grp_cercle2_1
+    400012: grp_cercles1
+    400014: grp_panel_droite
+    400016: grp_panel_gauche1
+    400018: grp_REGULATEUR_DE_PRESSION
+    400020: grp_titre_gauche1
+    400022: grp_txt1_droite1
+    400024: grp_txt1_gauche1
+    400026: grp_txt1_gauche1_1
+    400028: grp_txt2_droite1
+    400030: grp_txt2_gauche2_1
+    400032: grp_txt2_gauche2_1 1
+    400034: grp_txt_droite2_5
+    400036: grp_txt_droite3_5
+    400038: grp_txt_droite4_5
+    400040: grp_txt_droite5_5
+    400042: grp_txt_droite6_5
+    400044: grp_txt_droite7_5
+    400046: grp_txt_droite8_5
+    400048: grp_txt_droite_titre1_5
+    400050: petit_fond_droite_REGUL
+    400052: petit_fond_gauche1
+    400054: //RootNode
+    400056: REGULATEUR_DE_PRESSION
+    400058: REGULATEUR_DE_PRESSION_rouge
+    400060: titre_gauche1
+    400062: titre_gauche10
+    400064: titre_gauche11
+    400066: titre_gauche12
+    400068: titre_gauche13
+    400070: titre_gauche14
+    400072: titre_gauche15
+    400074: titre_gauche16
+    400076: titre_gauche17
+    400078: titre_gauche18
+    400080: titre_gauche19
+    400082: titre_gauche2
+    400084: titre_gauche3
+    400086: titre_gauche4
+    400088: titre_gauche5
+    400090: titre_gauche6
+    400092: titre_gauche7
+    400094: titre_gauche8
+    400096: titre_gauche9
+    400098: trait2_droite1
+    400100: trait_gauche1_1
+    400102: trait_gauche2_1
+    400104: trait_gauche3_1
+    400106: trait_gauche4_1
+    400108: txt1_droite1_1
+    400110: txt1_droite2_1
+    400112: txt1_droite3_1
+    400114: txt1_droite4_1
+    400116: txt1_gauche2_10_1
+    400118: txt1_gauche2_11_1
+    400120: txt1_gauche2_12_1
+    400122: txt1_gauche2_13_1
+    400124: txt1_gauche2_14_1
+    400126: txt1_gauche2_15_1
+    400128: txt1_gauche2_16_1
+    400130: txt1_gauche2_17_1
+    400132: txt1_gauche2_18_1
+    400134: txt1_gauche2_19_1
+    400136: txt1_gauche2_1_1
+    400138: txt1_gauche2_20_1
+    400140: txt1_gauche2_21_1
+    400142: txt1_gauche2_22_1
+    400144: txt1_gauche2_23_1
+    400146: txt1_gauche2_24_1
+    400148: txt1_gauche2_25_1
+    400150: txt1_gauche2_26_1
+    400152: txt1_gauche2_27_1
+    400154: txt1_gauche2_28_1
+    400156: txt1_gauche2_29_1
+    400158: txt1_gauche2_2_1
+    400160: txt1_gauche2_30_1
+    400162: txt1_gauche2_31_1
+    400164: txt1_gauche2_32_1
+    400166: txt1_gauche2_33_1
+    400168: txt1_gauche2_34_1
+    400170: txt1_gauche2_35_1
+    400172: txt1_gauche2_36_1
+    400174: txt1_gauche2_37_1
+    400176: txt1_gauche2_3_1
+    400178: txt1_gauche2_40_1
+    400180: txt1_gauche2_41_1
+    400182: txt1_gauche2_42_1
+    400184: txt1_gauche2_4_1
+    400186: txt1_gauche2_5_1
+    400188: txt1_gauche2_6_1
+    400190: txt1_gauche2_7_1
+    400192: txt1_gauche2_8_1
+    400194: txt1_gauche2_9_1
+    400196: txt2_droite1_1
+    400198: txt2_droite2_1
+    400200: txt2_droite3_1
+    400202: txt2_droite4_1
+    400204: txt2_gauche2_10_1
+    400206: txt2_gauche2_11_1
+    400208: txt2_gauche2_12_1
+    400210: txt2_gauche2_13_1
+    400212: txt2_gauche2_14_1
+    400214: txt2_gauche2_15_1
+    400216: txt2_gauche2_16_1
+    400218: txt2_gauche2_17_1
+    400220: txt2_gauche2_18_1
+    400222: txt2_gauche2_19_1
+    400224: txt2_gauche2_1_1
+    400226: txt2_gauche2_20_1
+    400228: txt2_gauche2_21_1
+    400230: txt2_gauche2_22_1
+    400232: txt2_gauche2_23_1
+    400234: txt2_gauche2_24_1
+    400236: txt2_gauche2_25_1
+    400238: txt2_gauche2_26_1
+    400240: txt2_gauche2_27_1
+    400242: txt2_gauche2_28_1
+    400244: txt2_gauche2_29_1
+    400246: txt2_gauche2_2_1
+    400248: txt2_gauche2_30_1
+    400250: txt2_gauche2_31_1
+    400252: txt2_gauche2_32_1
+    400254: txt2_gauche2_33_1
+    400256: txt2_gauche2_34_1
+    400258: txt2_gauche2_35_1
+    400260: txt2_gauche2_36_1
+    400262: txt2_gauche2_37_1
+    400264: txt2_gauche2_38_1
+    400266: txt2_gauche2_39_1
+    400268: txt2_gauche2_3_1
+    400270: txt2_gauche2_40_1
+    400272: txt2_gauche2_41_1
+    400274: txt2_gauche2_42_1
+    400276: txt2_gauche2_43_1
+    400278: txt2_gauche2_44_1
+    400280: txt2_gauche2_45_1
+    400282: txt2_gauche2_46_1
+    400284: txt2_gauche2_47_1
+    400286: txt2_gauche2_48_1
+    400288: txt2_gauche2_49_1
+    400290: txt2_gauche2_4_1
+    400292: txt2_gauche2_50_1
+    400294: txt2_gauche2_51_1
+    400296: txt2_gauche2_5_1
+    400298: txt2_gauche2_6_1
+    400300: txt2_gauche2_7_1
+    400302: txt2_gauche2_8_1
+    400304: txt2_gauche2_9_1
+    400306: txt_droite_titre66
+    400308: txt_droite_titre67
+    400310: txt_droite_titre68
+    400312: txt_droite_titre69
+    400314: txt_droite_titre70
+    400316: txt_droite_titre71
+    400318: txt_droite_titre73
+    400320: txt_droite_titre74
+    400322: txt_droite_titre75
+    400324: txt_droite_titre76
+    400326: txt_droite_titre77
+    400328: txt_droite_titre78
+    400330: txt_gauche10_1
+    400332: txt_gauche11_1
+    400334: txt_gauche12_1
+    400336: txt_gauche1_1
+    400338: txt_gauche2_1
+    400340: txt_gauche3_1
+    400342: txt_gauche4_1
+    400344: txt_gauche5_1
+    400346: txt_gauche6_1
+    400348: txt_gauche7_1
+    400350: txt_gauche8_1
+    400352: txt_gauche9_1
+    400354: txt_REGULATEUR_DE_PRESSION
+    400356: txt_txt_droite2_66
+    400358: txt_txt_droite2_67
+    400360: txt_txt_droite2_68
+    400362: txt_txt_droite2_77
+    400364: txt_txt_droite2_78
+    400366: txt_txt_droite2_79
+    400368: txt_txt_droite3_66
+    400370: txt_txt_droite3_67
+    400372: txt_txt_droite3_68
+    400374: txt_txt_droite3_69
+    400376: txt_txt_droite3_76
+    400378: txt_txt_droite3_77
+    400380: txt_txt_droite3_78
+    400382: txt_txt_droite3_79
+    400384: txt_txt_droite4_66
+    400386: txt_txt_droite4_67
+    400388: txt_txt_droite4_68
+    400390: txt_txt_droite4_69
+    400392: txt_txt_droite4_75
+    400394: txt_txt_droite4_76
+    400396: txt_txt_droite4_77
+    400398: txt_txt_droite4_78
+    400400: txt_txt_droite4_79
+    400402: txt_txt_droite5_66
+    400404: txt_txt_droite5_67
+    400406: txt_txt_droite5_77
+    400408: txt_txt_droite5_78
+    400410: txt_txt_droite5_79
+    400412: txt_txt_droite6_66
+    400414: txt_txt_droite6_67
+    400416: txt_txt_droite6_77
+    400418: txt_txt_droite6_78
+    400420: txt_txt_droite6_79
+    400422: txt_txt_droite7_65
+    400424: txt_txt_droite7_66
+    400426: txt_txt_droite7_67
+    400428: txt_txt_droite7_68
+    400430: txt_txt_droite7_69
+    400432: txt_txt_droite7_70
+    400434: txt_txt_droite7_71
+    400436: txt_txt_droite7_72
+    400438: txt_txt_droite7_73
+    400440: txt_txt_droite7_74
+    400442: txt_txt_droite7_75
+    400444: txt_txt_droite7_76
+    400446: txt_txt_droite7_77
+    400448: txt_txt_droite7_78
+    400450: txt_txt_droite7_79
+    400452: txt_txt_droite7_80
+    400454: txt_txt_droite8_65
+    400456: txt_txt_droite8_67
+    400458: txt_txt_droite8_68
+    400460: txt_txt_droite8_69
+    400462: txt_txt_droite8_70
+    400464: txt_txt_droite8_71
+    400466: txt_txt_droite8_72
+    400468: txt_txt_droite8_73
+    400470: txt_txt_droite8_74
+    400472: txt_txt_droite8_75
+    400474: txt_txt_droite8_76
+    400476: txt_txt_droite8_77
+    400478: txt_txt_droite8_80
+    2300000: cercle1_1
+    2300002: cercle2_1
+    2300004: grand_fond_droite1
+    2300006: grand_fond_gauche1
+    2300008: petit_fond_droite_REGUL
+    2300010: petit_fond_gauche1
+    2300012: REGULATEUR_DE_PRESSION
+    2300014: REGULATEUR_DE_PRESSION_rouge
+    2300016: titre_gauche1
+    2300018: titre_gauche10
+    2300020: titre_gauche11
+    2300022: titre_gauche12
+    2300024: titre_gauche13
+    2300026: titre_gauche14
+    2300028: titre_gauche15
+    2300030: titre_gauche16
+    2300032: titre_gauche17
+    2300034: titre_gauche18
+    2300036: titre_gauche19
+    2300038: titre_gauche2
+    2300040: titre_gauche3
+    2300042: titre_gauche4
+    2300044: titre_gauche5
+    2300046: titre_gauche6
+    2300048: titre_gauche7
+    2300050: titre_gauche8
+    2300052: titre_gauche9
+    2300054: trait2_droite1
+    2300056: trait_gauche1_1
+    2300058: trait_gauche2_1
+    2300060: trait_gauche3_1
+    2300062: trait_gauche4_1
+    2300064: txt1_droite1_1
+    2300066: txt1_droite2_1
+    2300068: txt1_droite3_1
+    2300070: txt1_droite4_1
+    2300072: txt1_gauche2_10_1
+    2300074: txt1_gauche2_11_1
+    2300076: txt1_gauche2_12_1
+    2300078: txt1_gauche2_13_1
+    2300080: txt1_gauche2_14_1
+    2300082: txt1_gauche2_15_1
+    2300084: txt1_gauche2_16_1
+    2300086: txt1_gauche2_17_1
+    2300088: txt1_gauche2_18_1
+    2300090: txt1_gauche2_19_1
+    2300092: txt1_gauche2_1_1
+    2300094: txt1_gauche2_20_1
+    2300096: txt1_gauche2_21_1
+    2300098: txt1_gauche2_22_1
+    2300100: txt1_gauche2_23_1
+    2300102: txt1_gauche2_24_1
+    2300104: txt1_gauche2_25_1
+    2300106: txt1_gauche2_26_1
+    2300108: txt1_gauche2_27_1
+    2300110: txt1_gauche2_28_1
+    2300112: txt1_gauche2_29_1
+    2300114: txt1_gauche2_2_1
+    2300116: txt1_gauche2_30_1
+    2300118: txt1_gauche2_31_1
+    2300120: txt1_gauche2_32_1
+    2300122: txt1_gauche2_33_1
+    2300124: txt1_gauche2_34_1
+    2300126: txt1_gauche2_35_1
+    2300128: txt1_gauche2_36_1
+    2300130: txt1_gauche2_37_1
+    2300132: txt1_gauche2_3_1
+    2300134: txt1_gauche2_40_1
+    2300136: txt1_gauche2_41_1
+    2300138: txt1_gauche2_42_1
+    2300140: txt1_gauche2_4_1
+    2300142: txt1_gauche2_5_1
+    2300144: txt1_gauche2_6_1
+    2300146: txt1_gauche2_7_1
+    2300148: txt1_gauche2_8_1
+    2300150: txt1_gauche2_9_1
+    2300152: txt2_droite1_1
+    2300154: txt2_droite2_1
+    2300156: txt2_droite3_1
+    2300158: txt2_droite4_1
+    2300160: txt2_gauche2_10_1
+    2300162: txt2_gauche2_11_1
+    2300164: txt2_gauche2_12_1
+    2300166: txt2_gauche2_13_1
+    2300168: txt2_gauche2_14_1
+    2300170: txt2_gauche2_15_1
+    2300172: txt2_gauche2_16_1
+    2300174: txt2_gauche2_17_1
+    2300176: txt2_gauche2_18_1
+    2300178: txt2_gauche2_19_1
+    2300180: txt2_gauche2_1_1
+    2300182: txt2_gauche2_20_1
+    2300184: txt2_gauche2_21_1
+    2300186: txt2_gauche2_22_1
+    2300188: txt2_gauche2_23_1
+    2300190: txt2_gauche2_24_1
+    2300192: txt2_gauche2_25_1
+    2300194: txt2_gauche2_26_1
+    2300196: txt2_gauche2_27_1
+    2300198: txt2_gauche2_28_1
+    2300200: txt2_gauche2_29_1
+    2300202: txt2_gauche2_2_1
+    2300204: txt2_gauche2_30_1
+    2300206: txt2_gauche2_31_1
+    2300208: txt2_gauche2_32_1
+    2300210: txt2_gauche2_33_1
+    2300212: txt2_gauche2_34_1
+    2300214: txt2_gauche2_35_1
+    2300216: txt2_gauche2_36_1
+    2300218: txt2_gauche2_37_1
+    2300220: txt2_gauche2_38_1
+    2300222: txt2_gauche2_39_1
+    2300224: txt2_gauche2_3_1
+    2300226: txt2_gauche2_40_1
+    2300228: txt2_gauche2_41_1
+    2300230: txt2_gauche2_42_1
+    2300232: txt2_gauche2_43_1
+    2300234: txt2_gauche2_44_1
+    2300236: txt2_gauche2_45_1
+    2300238: txt2_gauche2_46_1
+    2300240: txt2_gauche2_47_1
+    2300242: txt2_gauche2_48_1
+    2300244: txt2_gauche2_49_1
+    2300246: txt2_gauche2_4_1
+    2300248: txt2_gauche2_50_1
+    2300250: txt2_gauche2_51_1
+    2300252: txt2_gauche2_5_1
+    2300254: txt2_gauche2_6_1
+    2300256: txt2_gauche2_7_1
+    2300258: txt2_gauche2_8_1
+    2300260: txt2_gauche2_9_1
+    2300262: txt_droite_titre66
+    2300264: txt_droite_titre67
+    2300266: txt_droite_titre68
+    2300268: txt_droite_titre69
+    2300270: txt_droite_titre70
+    2300272: txt_droite_titre71
+    2300274: txt_droite_titre73
+    2300276: txt_droite_titre74
+    2300278: txt_droite_titre75
+    2300280: txt_droite_titre76
+    2300282: txt_droite_titre77
+    2300284: txt_droite_titre78
+    2300286: txt_gauche10_1
+    2300288: txt_gauche11_1
+    2300290: txt_gauche12_1
+    2300292: txt_gauche1_1
+    2300294: txt_gauche2_1
+    2300296: txt_gauche3_1
+    2300298: txt_gauche4_1
+    2300300: txt_gauche5_1
+    2300302: txt_gauche6_1
+    2300304: txt_gauche7_1
+    2300306: txt_gauche8_1
+    2300308: txt_gauche9_1
+    2300310: txt_txt_droite2_66
+    2300312: txt_txt_droite2_67
+    2300314: txt_txt_droite2_68
+    2300316: txt_txt_droite2_77
+    2300318: txt_txt_droite2_78
+    2300320: txt_txt_droite2_79
+    2300322: txt_txt_droite3_66
+    2300324: txt_txt_droite3_67
+    2300326: txt_txt_droite3_68
+    2300328: txt_txt_droite3_69
+    2300330: txt_txt_droite3_76
+    2300332: txt_txt_droite3_77
+    2300334: txt_txt_droite3_78
+    2300336: txt_txt_droite3_79
+    2300338: txt_txt_droite4_66
+    2300340: txt_txt_droite4_67
+    2300342: txt_txt_droite4_68
+    2300344: txt_txt_droite4_69
+    2300346: txt_txt_droite4_75
+    2300348: txt_txt_droite4_76
+    2300350: txt_txt_droite4_77
+    2300352: txt_txt_droite4_78
+    2300354: txt_txt_droite4_79
+    2300356: txt_txt_droite5_66
+    2300358: txt_txt_droite5_67
+    2300360: txt_txt_droite5_77
+    2300362: txt_txt_droite5_78
+    2300364: txt_txt_droite5_79
+    2300366: txt_txt_droite6_66
+    2300368: txt_txt_droite6_67
+    2300370: txt_txt_droite6_77
+    2300372: txt_txt_droite6_78
+    2300374: txt_txt_droite6_79
+    2300376: txt_txt_droite7_65
+    2300378: txt_txt_droite7_66
+    2300380: txt_txt_droite7_67
+    2300382: txt_txt_droite7_68
+    2300384: txt_txt_droite7_69
+    2300386: txt_txt_droite7_70
+    2300388: txt_txt_droite7_71
+    2300390: txt_txt_droite7_72
+    2300392: txt_txt_droite7_73
+    2300394: txt_txt_droite7_74
+    2300396: txt_txt_droite7_75
+    2300398: txt_txt_droite7_76
+    2300400: txt_txt_droite7_77
+    2300402: txt_txt_droite7_78
+    2300404: txt_txt_droite7_79
+    2300406: txt_txt_droite7_80
+    2300408: txt_txt_droite8_65
+    2300410: txt_txt_droite8_67
+    2300412: txt_txt_droite8_68
+    2300414: txt_txt_droite8_69
+    2300416: txt_txt_droite8_70
+    2300418: txt_txt_droite8_71
+    2300420: txt_txt_droite8_72
+    2300422: txt_txt_droite8_73
+    2300424: txt_txt_droite8_74
+    2300426: txt_txt_droite8_75
+    2300428: txt_txt_droite8_76
+    2300430: txt_txt_droite8_77
+    2300432: txt_txt_droite8_80
+    3300000: cercle1_1
+    3300002: cercle2_1
+    3300004: grand_fond_droite1
+    3300006: grand_fond_gauche1
+    3300008: petit_fond_droite_REGUL
+    3300010: petit_fond_gauche1
+    3300012: REGULATEUR_DE_PRESSION
+    3300014: REGULATEUR_DE_PRESSION_rouge
+    3300016: titre_gauche1
+    3300018: titre_gauche10
+    3300020: titre_gauche11
+    3300022: titre_gauche12
+    3300024: titre_gauche13
+    3300026: titre_gauche14
+    3300028: titre_gauche15
+    3300030: titre_gauche16
+    3300032: titre_gauche17
+    3300034: titre_gauche18
+    3300036: titre_gauche19
+    3300038: titre_gauche2
+    3300040: titre_gauche3
+    3300042: titre_gauche4
+    3300044: titre_gauche5
+    3300046: titre_gauche6
+    3300048: titre_gauche7
+    3300050: titre_gauche8
+    3300052: titre_gauche9
+    3300054: trait2_droite1
+    3300056: trait_gauche1_1
+    3300058: trait_gauche2_1
+    3300060: trait_gauche3_1
+    3300062: trait_gauche4_1
+    3300064: txt1_droite1_1
+    3300066: txt1_droite2_1
+    3300068: txt1_droite3_1
+    3300070: txt1_droite4_1
+    3300072: txt1_gauche2_10_1
+    3300074: txt1_gauche2_11_1
+    3300076: txt1_gauche2_12_1
+    3300078: txt1_gauche2_13_1
+    3300080: txt1_gauche2_14_1
+    3300082: txt1_gauche2_15_1
+    3300084: txt1_gauche2_16_1
+    3300086: txt1_gauche2_17_1
+    3300088: txt1_gauche2_18_1
+    3300090: txt1_gauche2_19_1
+    3300092: txt1_gauche2_1_1
+    3300094: txt1_gauche2_20_1
+    3300096: txt1_gauche2_21_1
+    3300098: txt1_gauche2_22_1
+    3300100: txt1_gauche2_23_1
+    3300102: txt1_gauche2_24_1
+    3300104: txt1_gauche2_25_1
+    3300106: txt1_gauche2_26_1
+    3300108: txt1_gauche2_27_1
+    3300110: txt1_gauche2_28_1
+    3300112: txt1_gauche2_29_1
+    3300114: txt1_gauche2_2_1
+    3300116: txt1_gauche2_30_1
+    3300118: txt1_gauche2_31_1
+    3300120: txt1_gauche2_32_1
+    3300122: txt1_gauche2_33_1
+    3300124: txt1_gauche2_34_1
+    3300126: txt1_gauche2_35_1
+    3300128: txt1_gauche2_36_1
+    3300130: txt1_gauche2_37_1
+    3300132: txt1_gauche2_3_1
+    3300134: txt1_gauche2_40_1
+    3300136: txt1_gauche2_41_1
+    3300138: txt1_gauche2_42_1
+    3300140: txt1_gauche2_4_1
+    3300142: txt1_gauche2_5_1
+    3300144: txt1_gauche2_6_1
+    3300146: txt1_gauche2_7_1
+    3300148: txt1_gauche2_8_1
+    3300150: txt1_gauche2_9_1
+    3300152: txt2_droite1_1
+    3300154: txt2_droite2_1
+    3300156: txt2_droite3_1
+    3300158: txt2_droite4_1
+    3300160: txt2_gauche2_10_1
+    3300162: txt2_gauche2_11_1
+    3300164: txt2_gauche2_12_1
+    3300166: txt2_gauche2_13_1
+    3300168: txt2_gauche2_14_1
+    3300170: txt2_gauche2_15_1
+    3300172: txt2_gauche2_16_1
+    3300174: txt2_gauche2_17_1
+    3300176: txt2_gauche2_18_1
+    3300178: txt2_gauche2_19_1
+    3300180: txt2_gauche2_1_1
+    3300182: txt2_gauche2_20_1
+    3300184: txt2_gauche2_21_1
+    3300186: txt2_gauche2_22_1
+    3300188: txt2_gauche2_23_1
+    3300190: txt2_gauche2_24_1
+    3300192: txt2_gauche2_25_1
+    3300194: txt2_gauche2_26_1
+    3300196: txt2_gauche2_27_1
+    3300198: txt2_gauche2_28_1
+    3300200: txt2_gauche2_29_1
+    3300202: txt2_gauche2_2_1
+    3300204: txt2_gauche2_30_1
+    3300206: txt2_gauche2_31_1
+    3300208: txt2_gauche2_32_1
+    3300210: txt2_gauche2_33_1
+    3300212: txt2_gauche2_34_1
+    3300214: txt2_gauche2_35_1
+    3300216: txt2_gauche2_36_1
+    3300218: txt2_gauche2_37_1
+    3300220: txt2_gauche2_38_1
+    3300222: txt2_gauche2_39_1
+    3300224: txt2_gauche2_3_1
+    3300226: txt2_gauche2_40_1
+    3300228: txt2_gauche2_41_1
+    3300230: txt2_gauche2_42_1
+    3300232: txt2_gauche2_43_1
+    3300234: txt2_gauche2_44_1
+    3300236: txt2_gauche2_45_1
+    3300238: txt2_gauche2_46_1
+    3300240: txt2_gauche2_47_1
+    3300242: txt2_gauche2_48_1
+    3300244: txt2_gauche2_49_1
+    3300246: txt2_gauche2_4_1
+    3300248: txt2_gauche2_50_1
+    3300250: txt2_gauche2_51_1
+    3300252: txt2_gauche2_5_1
+    3300254: txt2_gauche2_6_1
+    3300256: txt2_gauche2_7_1
+    3300258: txt2_gauche2_8_1
+    3300260: txt2_gauche2_9_1
+    3300262: txt_droite_titre66
+    3300264: txt_droite_titre67
+    3300266: txt_droite_titre68
+    3300268: txt_droite_titre69
+    3300270: txt_droite_titre70
+    3300272: txt_droite_titre71
+    3300274: txt_droite_titre73
+    3300276: txt_droite_titre74
+    3300278: txt_droite_titre75
+    3300280: txt_droite_titre76
+    3300282: txt_droite_titre77
+    3300284: txt_droite_titre78
+    3300286: txt_gauche10_1
+    3300288: txt_gauche11_1
+    3300290: txt_gauche12_1
+    3300292: txt_gauche1_1
+    3300294: txt_gauche2_1
+    3300296: txt_gauche3_1
+    3300298: txt_gauche4_1
+    3300300: txt_gauche5_1
+    3300302: txt_gauche6_1
+    3300304: txt_gauche7_1
+    3300306: txt_gauche8_1
+    3300308: txt_gauche9_1
+    3300310: txt_txt_droite2_66
+    3300312: txt_txt_droite2_67
+    3300314: txt_txt_droite2_68
+    3300316: txt_txt_droite2_77
+    3300318: txt_txt_droite2_78
+    3300320: txt_txt_droite2_79
+    3300322: txt_txt_droite3_66
+    3300324: txt_txt_droite3_67
+    3300326: txt_txt_droite3_68
+    3300328: txt_txt_droite3_69
+    3300330: txt_txt_droite3_76
+    3300332: txt_txt_droite3_77
+    3300334: txt_txt_droite3_78
+    3300336: txt_txt_droite3_79
+    3300338: txt_txt_droite4_66
+    3300340: txt_txt_droite4_67
+    3300342: txt_txt_droite4_68
+    3300344: txt_txt_droite4_69
+    3300346: txt_txt_droite4_75
+    3300348: txt_txt_droite4_76
+    3300350: txt_txt_droite4_77
+    3300352: txt_txt_droite4_78
+    3300354: txt_txt_droite4_79
+    3300356: txt_txt_droite5_66
+    3300358: txt_txt_droite5_67
+    3300360: txt_txt_droite5_77
+    3300362: txt_txt_droite5_78
+    3300364: txt_txt_droite5_79
+    3300366: txt_txt_droite6_66
+    3300368: txt_txt_droite6_67
+    3300370: txt_txt_droite6_77
+    3300372: txt_txt_droite6_78
+    3300374: txt_txt_droite6_79
+    3300376: txt_txt_droite7_65
+    3300378: txt_txt_droite7_66
+    3300380: txt_txt_droite7_67
+    3300382: txt_txt_droite7_68
+    3300384: txt_txt_droite7_69
+    3300386: txt_txt_droite7_70
+    3300388: txt_txt_droite7_71
+    3300390: txt_txt_droite7_72
+    3300392: txt_txt_droite7_73
+    3300394: txt_txt_droite7_74
+    3300396: txt_txt_droite7_75
+    3300398: txt_txt_droite7_76
+    3300400: txt_txt_droite7_77
+    3300402: txt_txt_droite7_78
+    3300404: txt_txt_droite7_79
+    3300406: txt_txt_droite7_80
+    3300408: txt_txt_droite8_65
+    3300410: txt_txt_droite8_67
+    3300412: txt_txt_droite8_68
+    3300414: txt_txt_droite8_69
+    3300416: txt_txt_droite8_70
+    3300418: txt_txt_droite8_71
+    3300420: txt_txt_droite8_72
+    3300422: txt_txt_droite8_73
+    3300424: txt_txt_droite8_74
+    3300426: txt_txt_droite8_75
+    3300428: txt_txt_droite8_76
+    3300430: txt_txt_droite8_77
+    3300432: txt_txt_droite8_80
+    4300000: cercle1_1
+    4300002: cercle2_1
+    4300004: grand_fond_droite1
+    4300006: trait2_droite1
+    4300008: txt1_droite1_1
+    4300010: txt1_droite2_1
+    4300012: txt1_droite3_1
+    4300014: txt1_droite4_1
+    4300016: txt2_droite1_1
+    4300018: txt2_droite2_1
+    4300020: txt2_droite3_1
+    4300022: txt2_droite4_1
+    4300024: grand_fond_gauche1
+    4300026: petit_fond_gauche1
+    4300028: trait_gauche1_1
+    4300030: trait_gauche2_1
+    4300032: trait_gauche3_1
+    4300034: trait_gauche4_1
+    4300036: titre_gauche1
+    4300038: titre_gauche2
+    4300040: titre_gauche3
+    4300042: titre_gauche4
+    4300044: titre_gauche5
+    4300046: titre_gauche6
+    4300048: titre_gauche7
+    4300050: titre_gauche8
+    4300052: titre_gauche9
+    4300054: titre_gauche10
+    4300056: titre_gauche11
+    4300058: titre_gauche12
+    4300060: titre_gauche13
+    4300062: titre_gauche14
+    4300064: titre_gauche15
+    4300066: titre_gauche16
+    4300068: titre_gauche17
+    4300070: titre_gauche18
+    4300072: titre_gauche19
+    4300074: txt_gauche1_1
+    4300076: txt_gauche2_1
+    4300078: txt_gauche3_1
+    4300080: txt_gauche4_1
+    4300082: txt_gauche5_1
+    4300084: txt_gauche6_1
+    4300086: txt_gauche7_1
+    4300088: txt_gauche8_1
+    4300090: txt_gauche9_1
+    4300092: txt_gauche10_1
+    4300094: txt_gauche11_1
+    4300096: txt_gauche12_1
+    4300098: txt2_gauche2_1_1
+    4300100: txt2_gauche2_2_1
+    4300102: txt2_gauche2_3_1
+    4300104: txt2_gauche2_4_1
+    4300106: txt2_gauche2_5_1
+    4300108: txt2_gauche2_6_1
+    4300110: txt2_gauche2_7_1
+    4300112: txt2_gauche2_8_1
+    4300114: txt2_gauche2_9_1
+    4300116: txt2_gauche2_10_1
+    4300118: txt2_gauche2_11_1
+    4300120: txt2_gauche2_12_1
+    4300122: txt2_gauche2_13_1
+    4300124: txt2_gauche2_14_1
+    4300126: txt2_gauche2_15_1
+    4300128: txt2_gauche2_16_1
+    4300130: txt2_gauche2_17_1
+    4300132: txt2_gauche2_18_1
+    4300134: txt2_gauche2_19_1
+    4300136: txt2_gauche2_20_1
+    4300138: txt2_gauche2_21_1
+    4300140: txt2_gauche2_22_1
+    4300142: txt2_gauche2_23_1
+    4300144: txt2_gauche2_24_1
+    4300146: txt2_gauche2_25_1
+    4300148: txt2_gauche2_26_1
+    4300150: txt2_gauche2_27_1
+    4300152: txt2_gauche2_28_1
+    4300154: txt2_gauche2_29_1
+    4300156: txt2_gauche2_30_1
+    4300158: txt2_gauche2_31_1
+    4300160: txt2_gauche2_32_1
+    4300162: txt2_gauche2_33_1
+    4300164: txt2_gauche2_34_1
+    4300166: txt2_gauche2_35_1
+    4300168: txt2_gauche2_36_1
+    4300170: txt2_gauche2_37_1
+    4300172: txt2_gauche2_38_1
+    4300174: txt2_gauche2_39_1
+    4300176: txt2_gauche2_40_1
+    4300178: txt2_gauche2_41_1
+    4300180: txt2_gauche2_42_1
+    4300182: txt2_gauche2_43_1
+    4300184: txt2_gauche2_44_1
+    4300186: txt2_gauche2_45_1
+    4300188: txt2_gauche2_46_1
+    4300190: txt2_gauche2_47_1
+    4300192: txt2_gauche2_48_1
+    4300194: txt2_gauche2_49_1
+    4300196: txt2_gauche2_50_1
+    4300198: txt2_gauche2_51_1
+    4300200: txt1_gauche2_1_1
+    4300202: txt1_gauche2_2_1
+    4300204: txt1_gauche2_3_1
+    4300206: txt1_gauche2_4_1
+    4300208: txt1_gauche2_5_1
+    4300210: txt1_gauche2_6_1
+    4300212: txt1_gauche2_7_1
+    4300214: txt1_gauche2_8_1
+    4300216: txt1_gauche2_9_1
+    4300218: txt1_gauche2_10_1
+    4300220: txt1_gauche2_11_1
+    4300222: txt1_gauche2_12_1
+    4300224: txt1_gauche2_13_1
+    4300226: txt1_gauche2_14_1
+    4300228: txt1_gauche2_15_1
+    4300230: txt1_gauche2_16_1
+    4300232: txt1_gauche2_17_1
+    4300234: txt1_gauche2_18_1
+    4300236: txt1_gauche2_19_1
+    4300238: txt1_gauche2_20_1
+    4300240: txt1_gauche2_21_1
+    4300242: txt1_gauche2_22_1
+    4300244: txt1_gauche2_23_1
+    4300246: txt1_gauche2_24_1
+    4300248: txt1_gauche2_25_1
+    4300250: txt1_gauche2_26_1
+    4300252: txt1_gauche2_27_1
+    4300254: txt1_gauche2_28_1
+    4300256: txt1_gauche2_29_1
+    4300258: txt1_gauche2_30_1
+    4300260: txt1_gauche2_31_1
+    4300262: txt1_gauche2_32_1
+    4300264: txt1_gauche2_33_1
+    4300266: txt1_gauche2_34_1
+    4300268: txt1_gauche2_35_1
+    4300270: txt1_gauche2_36_1
+    4300272: txt1_gauche2_37_1
+    4300274: txt1_gauche2_40_1
+    4300276: txt1_gauche2_41_1
+    4300278: txt1_gauche2_42_1
+    4300280: REGULATEUR_DE_PRESSION
+    4300282: REGULATEUR_DE_PRESSION_rouge
+    4300284: petit_fond_droite_REGUL
+    4300286: txt_droite_titre66
+    4300288: txt_droite_titre67
+    4300290: txt_droite_titre68
+    4300292: txt_droite_titre69
+    4300294: txt_droite_titre70
+    4300296: txt_droite_titre71
+    4300298: txt_droite_titre73
+    4300300: txt_droite_titre74
+    4300302: txt_droite_titre75
+    4300304: txt_droite_titre76
+    4300306: txt_droite_titre77
+    4300308: txt_droite_titre78
+    4300310: txt_txt_droite2_66
+    4300312: txt_txt_droite2_67
+    4300314: txt_txt_droite2_68
+    4300316: txt_txt_droite2_77
+    4300318: txt_txt_droite2_78
+    4300320: txt_txt_droite2_79
+    4300322: txt_txt_droite3_66
+    4300324: txt_txt_droite3_67
+    4300326: txt_txt_droite3_68
+    4300328: txt_txt_droite3_69
+    4300330: txt_txt_droite3_76
+    4300332: txt_txt_droite3_77
+    4300334: txt_txt_droite3_78
+    4300336: txt_txt_droite3_79
+    4300338: txt_txt_droite4_66
+    4300340: txt_txt_droite4_67
+    4300342: txt_txt_droite4_68
+    4300344: txt_txt_droite4_69
+    4300346: txt_txt_droite4_75
+    4300348: txt_txt_droite4_76
+    4300350: txt_txt_droite4_77
+    4300352: txt_txt_droite4_78
+    4300354: txt_txt_droite4_79
+    4300356: txt_txt_droite5_66
+    4300358: txt_txt_droite5_67
+    4300360: txt_txt_droite5_77
+    4300362: txt_txt_droite5_78
+    4300364: txt_txt_droite5_79
+    4300366: txt_txt_droite6_66
+    4300368: txt_txt_droite6_67
+    4300370: txt_txt_droite6_77
+    4300372: txt_txt_droite6_78
+    4300374: txt_txt_droite6_79
+    4300376: txt_txt_droite7_65
+    4300378: txt_txt_droite7_66
+    4300380: txt_txt_droite7_67
+    4300382: txt_txt_droite7_68
+    4300384: txt_txt_droite7_69
+    4300386: txt_txt_droite7_70
+    4300388: txt_txt_droite7_71
+    4300390: txt_txt_droite7_72
+    4300392: txt_txt_droite7_73
+    4300394: txt_txt_droite7_74
+    4300396: txt_txt_droite7_75
+    4300398: txt_txt_droite7_76
+    4300400: txt_txt_droite7_77
+    4300402: txt_txt_droite7_78
+    4300404: txt_txt_droite7_79
+    4300406: txt_txt_droite7_80
+    4300408: txt_txt_droite8_65
+    4300410: txt_txt_droite8_67
+    4300412: txt_txt_droite8_68
+    4300414: txt_txt_droite8_69
+    4300416: txt_txt_droite8_70
+    4300418: txt_txt_droite8_71
+    4300420: txt_txt_droite8_72
+    4300422: txt_txt_droite8_73
+    4300424: txt_txt_droite8_74
+    4300426: txt_txt_droite8_75
+    4300428: txt_txt_droite8_76
+    4300430: txt_txt_droite8_77
+    4300432: txt_txt_droite8_80
+    7400000: Step1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Step1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 280
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_cercles1
+        weight: 1
+      - path: grp_cercles1/grp_cercle1_1
+        weight: 1
+      - path: grp_cercles1/grp_cercle1_1/cercle1_1
+        weight: 1
+      - path: grp_cercles1/grp_cercle2_1
+        weight: 1
+      - path: grp_cercles1/grp_cercle2_1/cercle2_1
+        weight: 1
+      - path: grp_panel_droite
+        weight: 1
+      - path: grp_panel_droite/grand_fond_droite1
+        weight: 1
+      - path: grp_panel_droite/grp_txt1_droite1
+        weight: 1
+      - path: grp_panel_droite/grp_txt1_droite1/txt1_droite1_1
+        weight: 1
+      - path: grp_panel_droite/grp_txt1_droite1/txt1_droite2_1
+        weight: 1
+      - path: grp_panel_droite/grp_txt1_droite1/txt1_droite3_1
+        weight: 1
+      - path: grp_panel_droite/grp_txt1_droite1/txt1_droite4_1
+        weight: 1
+      - path: grp_panel_droite/grp_txt2_droite1
+        weight: 1
+      - path: grp_panel_droite/grp_txt2_droite1/txt2_droite1_1
+        weight: 1
+      - path: grp_panel_droite/grp_txt2_droite1/txt2_droite2_1
+        weight: 1
+      - path: grp_panel_droite/grp_txt2_droite1/txt2_droite3_1
+        weight: 1
+      - path: grp_panel_droite/grp_txt2_droite1/txt2_droite4_1
+        weight: 1
+      - path: grp_panel_droite/trait2_droite1
+        weight: 1
+      - path: grp_panel_gauche1
+        weight: 1
+      - path: grp_panel_gauche1/grand_fond_gauche1
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche1
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche2
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche3
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche4
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche5
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche6
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche7
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche8
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche9
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche10
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche11
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche12
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche13
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche14
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche15
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche16
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche17
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche18
+        weight: 1
+      - path: grp_panel_gauche1/grp_titre_gauche1/titre_gauche19
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche1_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche2_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche3_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche4_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche5_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche6_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche7_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche8_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche9_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche10_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche11_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt1_gauche1_1/txt_gauche12_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_1_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_2_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_3_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_4_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_5_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_6_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_7_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_8_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_9_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_10_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_11_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_12_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_13_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_14_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_15_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_16_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_17_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_18_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_19_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_20_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_21_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_22_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_23_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_24_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_25_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_26_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_27_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_28_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_29_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_30_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_31_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_32_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_33_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_34_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_35_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_36_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_37_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_40_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_41_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt1_gauche1/txt1_gauche2_42_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_1_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_2_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_3_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_4_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_5_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_6_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_7_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_8_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_9_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_10_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_11_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_12_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_13_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_14_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_15_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_16_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_17_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_18_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_19_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_20_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_21_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_22_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_23_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_24_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_25_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_26_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_27_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_28_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_29_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_30_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_31_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_32_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_33_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_34_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_35_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_36_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_37_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_38_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_39_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_40_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_41_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_42_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_43_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_44_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_45_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_46_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_47_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_48_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_49_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_50_1
+        weight: 1
+      - path: grp_panel_gauche1/grp_txt2_gauche2_1/grp_txt2_gauche2_1 1/txt2_gauche2_51_1
+        weight: 1
+      - path: grp_panel_gauche1/petit_fond_gauche1
+        weight: 1
+      - path: grp_panel_gauche1/trait_gauche1_1
+        weight: 1
+      - path: grp_panel_gauche1/trait_gauche2_1
+        weight: 1
+      - path: grp_panel_gauche1/trait_gauche3_1
+        weight: 1
+      - path: grp_panel_gauche1/trait_gauche4_1
+        weight: 1
+      - path: grp_REGULATEUR_DE_PRESSION
+        weight: 1
+      - path: grp_REGULATEUR_DE_PRESSION/REGULATEUR_DE_PRESSION
+        weight: 1
+      - path: grp_REGULATEUR_DE_PRESSION/REGULATEUR_DE_PRESSION_rouge
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite2_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite2_5/txt_txt_droite2_66
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite2_5/txt_txt_droite2_67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite2_5/txt_txt_droite2_68
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite2_5/txt_txt_droite2_77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite2_5/txt_txt_droite2_78
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite2_5/txt_txt_droite2_79
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_66
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_68
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_69
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_76
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_78
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite3_5/txt_txt_droite3_79
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_66
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_68
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_69
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_75
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_76
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_78
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite4_5/txt_txt_droite4_79
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite5_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite5_5/txt_txt_droite5_66
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite5_5/txt_txt_droite5_67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite5_5/txt_txt_droite5_77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite5_5/txt_txt_droite5_78
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite5_5/txt_txt_droite5_79
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite6_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite6_5/txt_txt_droite6_66
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite6_5/txt_txt_droite6_67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite6_5/txt_txt_droite6_77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite6_5/txt_txt_droite6_78
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite6_5/txt_txt_droite6_79
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_65
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_66
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_68
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_69
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_70
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_71
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_72
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_73
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_74
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_75
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_76
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_78
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_79
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite7_5/txt_txt_droite7_80
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_65
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_68
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_69
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_70
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_71
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_72
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_73
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_74
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_75
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_76
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite8_5/txt_txt_droite8_80
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre66
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre67
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre68
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre69
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre70
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre71
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre73
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre74
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre75
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre76
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre77
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/grp_txt_droite_titre1_5/txt_droite_titre78
+        weight: 1
+      - path: txt_REGULATEUR_DE_PRESSION/petit_fond_droite_REGUL
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

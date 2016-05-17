@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 55be20bcec5551842a694828a3b1045c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fuselage_sonde
+    100004: grp_sonde_01
+    100006: sonde_01
+    100008: vis_sonde
+    100010: camera_sonde
+    100012: cube_camera_sonde
+    100014: grp_camera_sonde
+    100016: grp_sondes
+    100018: sonde_highlight
+    400000: //RootNode
+    400002: fuselage_sonde
+    400004: grp_sonde_01
+    400006: sonde_01
+    400008: vis_sonde
+    400010: camera_sonde
+    400012: cube_camera_sonde
+    400014: grp_camera_sonde
+    400016: grp_sondes
+    400018: sonde_highlight
+    2300000: fuselage_sonde
+    2300002: sonde_01
+    2300004: vis_sonde
+    2300006: cube_camera_sonde
+    2300008: sonde_highlight
+    3300000: fuselage_sonde
+    3300002: sonde_01
+    3300004: vis_sonde
+    3300006: cube_camera_sonde
+    3300008: sonde_highlight
+    4300000: sonde_01
+    4300002: vis_sonde
+    4300004: fuselage_sonde
+    4300006: sonde_highlight
+    4300008: cube_camera_sonde
+    7400000: Step1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Step1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 75.0000076
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fuselage_sonde
+        weight: 1
+      - path: grp_sonde_01
+        weight: 1
+      - path: grp_sonde_01/sonde_01
+        weight: 1
+      - path: vis_sonde
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

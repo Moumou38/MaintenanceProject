@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 4b4810365debfda42b050a84e893d4b6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: anim_lock_disquette
+    100004: Decal1
+    100006: Decal_Radio1
+    100008: disquette_A1
+    100010: disquette_B1
+    100012: fuselage_bsdm
+    100014: grp_bsdm
+    100016: grp_disquettes
+    100018: grp_lock_disquette
+    100020: grp_porte_disquettes
+    100022: grp_trappe_bsdm
+    100024: lock_disquette
+    100026: Panneaux_Controle_03
+    100028: Trappe_Stockage_Donnees
+    100030: Trappette_radio1
+    100032: camera_bsdm
+    100034: cube_camera_bsdm
+    100036: grp_bsdm_all
+    100038: grp_camera_bsdm
+    100040: lock_disquette_highlight
+    400000: //RootNode
+    400002: anim_lock_disquette
+    400004: Decal1
+    400006: Decal_Radio1
+    400008: disquette_A1
+    400010: disquette_B1
+    400012: fuselage_bsdm
+    400014: grp_bsdm
+    400016: grp_disquettes
+    400018: grp_lock_disquette
+    400020: grp_porte_disquettes
+    400022: grp_trappe_bsdm
+    400024: lock_disquette
+    400026: Panneaux_Controle_03
+    400028: Trappe_Stockage_Donnees
+    400030: Trappette_radio1
+    400032: camera_bsdm
+    400034: cube_camera_bsdm
+    400036: grp_bsdm_all
+    400038: grp_camera_bsdm
+    400040: lock_disquette_highlight
+    2300000: Decal1
+    2300002: Decal_Radio1
+    2300004: disquette_A1
+    2300006: disquette_B1
+    2300008: fuselage_bsdm
+    2300010: lock_disquette
+    2300012: Panneaux_Controle_03
+    2300014: Trappe_Stockage_Donnees
+    2300016: Trappette_radio1
+    2300018: cube_camera_bsdm
+    2300020: lock_disquette_highlight
+    3300000: Decal1
+    3300002: Decal_Radio1
+    3300004: disquette_A1
+    3300006: disquette_B1
+    3300008: fuselage_bsdm
+    3300010: lock_disquette
+    3300012: Panneaux_Controle_03
+    3300014: Trappe_Stockage_Donnees
+    3300016: Trappette_radio1
+    3300018: cube_camera_bsdm
+    3300020: lock_disquette_highlight
+    4300000: Trappe_Stockage_Donnees
+    4300002: Decal1
+    4300004: disquette_B1
+    4300006: disquette_A1
+    4300008: Panneaux_Controle_03
+    4300010: Trappette_radio1
+    4300012: Decal_Radio1
+    4300014: lock_disquette
+    4300016: fuselage_bsdm
+    4300018: lock_disquette_highlight
+    4300020: cube_camera_bsdm
+    7400000: Step1
+    7400002: Step2
+    7400004: Step3
+    7400006: Step4
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Step1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_bsdm
+        weight: 1
+      - path: grp_bsdm/Decal1
+        weight: 1
+      - path: grp_bsdm/fuselage_bsdm
+        weight: 1
+      - path: grp_bsdm/grp_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_A1
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_B1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Decal_Radio1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette/lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Trappette_radio1
+        weight: 1
+      - path: grp_bsdm/Panneaux_Controle_03
+        weight: 1
+      - path: grp_trappe_bsdm
+        weight: 1
+      - path: grp_trappe_bsdm/Trappe_Stockage_Donnees
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step2
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_bsdm
+        weight: 1
+      - path: grp_bsdm/Decal1
+        weight: 1
+      - path: grp_bsdm/fuselage_bsdm
+        weight: 1
+      - path: grp_bsdm/grp_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_A1
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_B1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Decal_Radio1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette/lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Trappette_radio1
+        weight: 1
+      - path: grp_bsdm/Panneaux_Controle_03
+        weight: 1
+      - path: grp_trappe_bsdm
+        weight: 1
+      - path: grp_trappe_bsdm/Trappe_Stockage_Donnees
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step3
+      takeName: Take 001
+      firstFrame: 175
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_bsdm
+        weight: 1
+      - path: grp_bsdm/Decal1
+        weight: 1
+      - path: grp_bsdm/fuselage_bsdm
+        weight: 1
+      - path: grp_bsdm/grp_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_A1
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_B1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Decal_Radio1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette/lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Trappette_radio1
+        weight: 1
+      - path: grp_bsdm/Panneaux_Controle_03
+        weight: 1
+      - path: grp_trappe_bsdm
+        weight: 1
+      - path: grp_trappe_bsdm/Trappe_Stockage_Donnees
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step4
+      takeName: Take 001
+      firstFrame: 234
+      lastFrame: 369
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_bsdm
+        weight: 1
+      - path: grp_bsdm/Decal1
+        weight: 1
+      - path: grp_bsdm/fuselage_bsdm
+        weight: 1
+      - path: grp_bsdm/grp_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_A1
+        weight: 1
+      - path: grp_bsdm/grp_disquettes/disquette_B1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Decal_Radio1
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/grp_lock_disquette/anim_lock_disquette/lock_disquette
+        weight: 1
+      - path: grp_bsdm/grp_porte_disquettes/Trappette_radio1
+        weight: 1
+      - path: grp_bsdm/Panneaux_Controle_03
+        weight: 1
+      - path: grp_trappe_bsdm
+        weight: 1
+      - path: grp_trappe_bsdm/Trappe_Stockage_Donnees
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

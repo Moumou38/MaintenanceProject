@@ -1,0 +1,9 @@
+sonde :
+ - 0   ->  85	: rotation
+
+bsdm :
+ - 0   ->  110  : ouverture
+ - 110 ->  170  : sortie cartes
+ - 175 ->  235  : rentrée cartes
+ - 235 ->  370  : fermeture 
+

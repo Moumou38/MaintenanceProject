@@ -1,0 +1,2384 @@
+fileFormatVersion: 2
+guid: 38ee34648d76b714ba080d1d5094ae10
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boutons1
+    100004: boutons2
+    100006: boutons_disp
+    100008: boutons_lamp
+    100010: diode_02
+    100012: diode_03
+    100014: diode_04
+    100016: diode_05
+    100018: diode_06
+    100020: diode_07
+    100022: diode_08
+    100024: diode_09
+    100026: diode_10
+    100028: diode_11
+    100030: diode_12
+    100032: diode_13
+    100034: diode_14
+    100036: diode_15
+    100038: diode_16
+    100040: diode_17
+    100042: diode_18
+    100044: diode_19
+    100046: diode_20
+    100048: diode_21
+    100050: diode_22
+    100052: diode_23
+    100054: diode_24
+    100056: diode_25
+    100058: diode_26
+    100060: diode_27
+    100062: diode_28
+    100064: diode_29
+    100066: diode_30
+    100068: diode_31
+    100070: diode_32
+    100072: diode_33
+    100074: diode_34
+    100076: diode_35
+    100078: diode_36
+    100080: diode_37
+    100082: diode_38
+    100084: diode_39
+    100086: diode_40
+    100088: diodes_texte_01
+    100090: diodes_texte_010
+    100092: diodes_texte_02
+    100094: diodes_texte_03
+    100096: diodes_texte_04
+    100098: diodes_texte_05
+    100100: diodes_texte_06
+    100102: diodes_texte_07
+    100104: diodes_texte_08
+    100106: diodes_texte_09
+    100108: Fuselage_mecanicien
+    100110: grp_boutons1
+    100112: grp_boutons2
+    100114: grp_diodes
+    100116: grp_mecanicien
+    100118: grp_trappe_mecanicien
+    100120: Panneaux_Controle_05
+    100122: panneaux_mecanicien
+    100124: Trappe_Avitaillement
+    100126: txt_mecanicien
+    100128: boutons1_highlight
+    100130: boutons2_highlight
+    100132: boutons_disp_highlight
+    100134: boutons_lamp_highlight
+    100136: camera_mecanicien
+    100138: cube_camera_mecanicien
+    100140: grp_camera_mecanicien
+    100142: grp_mecanicien_all
+    100144: plan_chrono_30s
+    100146: plan_chrono_5s
+    400000: //RootNode
+    400002: boutons1
+    400004: boutons2
+    400006: boutons_disp
+    400008: boutons_lamp
+    400010: diode_02
+    400012: diode_03
+    400014: diode_04
+    400016: diode_05
+    400018: diode_06
+    400020: diode_07
+    400022: diode_08
+    400024: diode_09
+    400026: diode_10
+    400028: diode_11
+    400030: diode_12
+    400032: diode_13
+    400034: diode_14
+    400036: diode_15
+    400038: diode_16
+    400040: diode_17
+    400042: diode_18
+    400044: diode_19
+    400046: diode_20
+    400048: diode_21
+    400050: diode_22
+    400052: diode_23
+    400054: diode_24
+    400056: diode_25
+    400058: diode_26
+    400060: diode_27
+    400062: diode_28
+    400064: diode_29
+    400066: diode_30
+    400068: diode_31
+    400070: diode_32
+    400072: diode_33
+    400074: diode_34
+    400076: diode_35
+    400078: diode_36
+    400080: diode_37
+    400082: diode_38
+    400084: diode_39
+    400086: diode_40
+    400088: diodes_texte_01
+    400090: diodes_texte_010
+    400092: diodes_texte_02
+    400094: diodes_texte_03
+    400096: diodes_texte_04
+    400098: diodes_texte_05
+    400100: diodes_texte_06
+    400102: diodes_texte_07
+    400104: diodes_texte_08
+    400106: diodes_texte_09
+    400108: Fuselage_mecanicien
+    400110: grp_boutons1
+    400112: grp_boutons2
+    400114: grp_diodes
+    400116: grp_mecanicien
+    400118: grp_trappe_mecanicien
+    400120: Panneaux_Controle_05
+    400122: panneaux_mecanicien
+    400124: Trappe_Avitaillement
+    400126: txt_mecanicien
+    400128: boutons1_highlight
+    400130: boutons2_highlight
+    400132: boutons_disp_highlight
+    400134: boutons_lamp_highlight
+    400136: camera_mecanicien
+    400138: cube_camera_mecanicien
+    400140: grp_camera_mecanicien
+    400142: grp_mecanicien_all
+    400144: plan_chrono_30s
+    400146: plan_chrono_5s
+    2300000: boutons1
+    2300002: boutons2
+    2300004: boutons_disp
+    2300006: boutons_lamp
+    2300008: diode_02
+    2300010: diode_03
+    2300012: diode_04
+    2300014: diode_05
+    2300016: diode_06
+    2300018: diode_07
+    2300020: diode_08
+    2300022: diode_09
+    2300024: diode_10
+    2300026: diode_11
+    2300028: diode_12
+    2300030: diode_13
+    2300032: diode_14
+    2300034: diode_15
+    2300036: diode_16
+    2300038: diode_17
+    2300040: diode_18
+    2300042: diode_19
+    2300044: diode_20
+    2300046: diode_21
+    2300048: diode_22
+    2300050: diode_23
+    2300052: diode_24
+    2300054: diode_25
+    2300056: diode_26
+    2300058: diode_27
+    2300060: diode_28
+    2300062: diode_29
+    2300064: diode_30
+    2300066: diode_31
+    2300068: diode_32
+    2300070: diode_33
+    2300072: diode_34
+    2300074: diode_35
+    2300076: diode_36
+    2300078: diode_37
+    2300080: diode_38
+    2300082: diode_39
+    2300084: diode_40
+    2300086: diodes_texte_01
+    2300088: diodes_texte_010
+    2300090: diodes_texte_02
+    2300092: diodes_texte_03
+    2300094: diodes_texte_04
+    2300096: diodes_texte_05
+    2300098: diodes_texte_06
+    2300100: diodes_texte_07
+    2300102: diodes_texte_08
+    2300104: diodes_texte_09
+    2300106: Fuselage_mecanicien
+    2300108: Panneaux_Controle_05
+    2300110: panneaux_mecanicien
+    2300112: Trappe_Avitaillement
+    2300114: txt_mecanicien
+    2300116: boutons1_highlight
+    2300118: boutons2_highlight
+    2300120: boutons_disp_highlight
+    2300122: boutons_lamp_highlight
+    2300124: cube_camera_mecanicien
+    2300126: plan_chrono_30s
+    2300128: plan_chrono_5s
+    3300000: boutons1
+    3300002: boutons2
+    3300004: boutons_disp
+    3300006: boutons_lamp
+    3300008: diode_02
+    3300010: diode_03
+    3300012: diode_04
+    3300014: diode_05
+    3300016: diode_06
+    3300018: diode_07
+    3300020: diode_08
+    3300022: diode_09
+    3300024: diode_10
+    3300026: diode_11
+    3300028: diode_12
+    3300030: diode_13
+    3300032: diode_14
+    3300034: diode_15
+    3300036: diode_16
+    3300038: diode_17
+    3300040: diode_18
+    3300042: diode_19
+    3300044: diode_20
+    3300046: diode_21
+    3300048: diode_22
+    3300050: diode_23
+    3300052: diode_24
+    3300054: diode_25
+    3300056: diode_26
+    3300058: diode_27
+    3300060: diode_28
+    3300062: diode_29
+    3300064: diode_30
+    3300066: diode_31
+    3300068: diode_32
+    3300070: diode_33
+    3300072: diode_34
+    3300074: diode_35
+    3300076: diode_36
+    3300078: diode_37
+    3300080: diode_38
+    3300082: diode_39
+    3300084: diode_40
+    3300086: diodes_texte_01
+    3300088: diodes_texte_010
+    3300090: diodes_texte_02
+    3300092: diodes_texte_03
+    3300094: diodes_texte_04
+    3300096: diodes_texte_05
+    3300098: diodes_texte_06
+    3300100: diodes_texte_07
+    3300102: diodes_texte_08
+    3300104: diodes_texte_09
+    3300106: Fuselage_mecanicien
+    3300108: Panneaux_Controle_05
+    3300110: panneaux_mecanicien
+    3300112: Trappe_Avitaillement
+    3300114: txt_mecanicien
+    3300116: boutons1_highlight
+    3300118: boutons2_highlight
+    3300120: boutons_disp_highlight
+    3300122: boutons_lamp_highlight
+    3300124: cube_camera_mecanicien
+    3300126: plan_chrono_30s
+    3300128: plan_chrono_5s
+    4300000: Trappe_Avitaillement
+    4300002: diode_02
+    4300004: diode_03
+    4300006: diode_04
+    4300008: diode_05
+    4300010: diode_06
+    4300012: diode_07
+    4300014: diode_08
+    4300016: diode_09
+    4300018: diode_10
+    4300020: diode_11
+    4300022: diode_12
+    4300024: diode_13
+    4300026: diode_14
+    4300028: diode_15
+    4300030: diode_16
+    4300032: diode_17
+    4300034: diode_18
+    4300036: diode_19
+    4300038: diode_20
+    4300040: diode_21
+    4300042: diode_22
+    4300044: diode_23
+    4300046: diode_24
+    4300048: diode_25
+    4300050: diode_26
+    4300052: diode_27
+    4300054: diode_28
+    4300056: diode_29
+    4300058: diode_30
+    4300060: diode_31
+    4300062: diode_32
+    4300064: diode_33
+    4300066: diode_34
+    4300068: diode_35
+    4300070: diode_36
+    4300072: diode_37
+    4300074: diode_38
+    4300076: diode_39
+    4300078: diode_40
+    4300080: diodes_texte_01
+    4300082: diodes_texte_02
+    4300084: diodes_texte_03
+    4300086: diodes_texte_04
+    4300088: diodes_texte_05
+    4300090: diodes_texte_06
+    4300092: diodes_texte_07
+    4300094: diodes_texte_08
+    4300096: diodes_texte_09
+    4300098: diodes_texte_010
+    4300100: txt_mecanicien
+    4300102: panneaux_mecanicien
+    4300104: Fuselage_mecanicien
+    4300106: boutons_lamp
+    4300108: boutons_disp
+    4300110: boutons1
+    4300112: boutons2
+    4300114: Panneaux_Controle_05
+    4300116: boutons_lamp_highlight
+    4300118: boutons_disp_highlight
+    4300120: boutons1_highlight
+    4300122: boutons2_highlight
+    4300124: plan_chrono_5s
+    4300126: plan_chrono_30s
+    4300128: cube_camera_mecanicien
+    7400000: Step1
+    7400002: Step2
+    7400004: Step3
+    7400006: Step4
+    7400008: Step5
+    7400010: Step6
+    7400012: Step7
+    7400014: Step8
+    7400016: Step9
+    7400018: Step10
+    7400020: Step11
+    7400022: Step12
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Step1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step2
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 80
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step3
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 280
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step4
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 325
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step5
+      takeName: Take 001
+      firstFrame: 340
+      lastFrame: 345
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step6
+      takeName: Take 001
+      firstFrame: 345
+      lastFrame: 370
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien
+        weight: 1
+      - path: grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step7
+      takeName: Take 001
+      firstFrame: 375
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/cube_camera_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_5s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_30s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step8
+      takeName: Take 001
+      firstFrame: 460
+      lastFrame: 500
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/cube_camera_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_5s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_30s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step9
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/cube_camera_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_5s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_30s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step10
+      takeName: Take 001
+      firstFrame: 550
+      lastFrame: 555
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/cube_camera_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_5s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_30s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step11
+      takeName: Take 001
+      firstFrame: 560
+      lastFrame: 580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/cube_camera_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_5s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_30s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Step12
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 655
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/camera_mecanicien
+        weight: 1
+      - path: grp_camera_mecanicien/cube_camera_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_disp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/boutons_lamp_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Fuselage_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons1/boutons1_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_boutons2/boutons2_highlight
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_10
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_11
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_12
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_13
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_14
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_15
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_16
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_17
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_18
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_19
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_20
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_21
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_22
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_23
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_24
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_25
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_26
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_27
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_28
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_29
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_30
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_31
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_32
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_33
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_34
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_35
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_36
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_37
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_38
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_39
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diode_40
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_01
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_02
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_03
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_04
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_06
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_07
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_08
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_09
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/grp_diodes/diodes_texte_010
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/Panneaux_Controle_05
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/panneaux_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_5s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/plan_chrono_30s
+        weight: 1
+      - path: grp_mecanicien_all/grp_mecanicien/txt_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien
+        weight: 1
+      - path: grp_mecanicien_all/grp_trappe_mecanicien/Trappe_Avitaillement
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

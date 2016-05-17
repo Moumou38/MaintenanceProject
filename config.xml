@@ -1,0 +1,11 @@
+<Config>
+
+	<AssetBundleFolder>AssetBundles/</AssetBundleFolder>  <!-- Relative path -->
+	
+	<!-- Which AssetBundle do you want to load on start of the application 
+			URL : can be left empty if Local -->
+	
+	
+	
+
+</Config>

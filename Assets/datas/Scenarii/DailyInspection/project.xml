@@ -1,0 +1,1075 @@
+﻿<PROCEDURE>
+	<VERSION>150601</VERSION>
+	<TITLE>Daily Inspection</TITLE>
+	<STEPS>
+		<!-- 1 -->
+		<STEP>
+			<TITLE>Inspection documents</TITLE>
+			<STEPS>
+				<!-- 1.1 -->
+				<STEP bookmark="true">
+					<INSTRUCTIONS>Make sure that the possible fault diagnosis and required works listed in the aircraft inspection documents have been carried out</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 2 -->
+		<STEP>
+			<TITLE>General inspections</TITLE>
+			<TARGET>rafale_highlight_02</TARGET>
+			<STEPS>
+				<!-- 2.1 -->
+				<STEP>
+					<INSTRUCTIONS>Check the visual aspect of skins, paint and riveting</INSTRUCTIONS>
+					<COMMENTS>
+						<COMMENT type="note">An unreported bump in a composite panel must be dealt with by a specific inspection to check for delamination</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 2.2 -->
+				<STEP>
+					<INSTRUCTIONS>Check attachment of panels, doors, fairings and antennas</INSTRUCTIONS>
+				</STEP>
+				<!-- 2.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of pipes and hoses, couplings, electrical cables, bonding braids and safetying devices</INSTRUCTIONS>
+				</STEP>
+				<!-- 2.4 -->
+				<STEP>
+					<INSTRUCTIONS>Check connection and locking of electrical connectors, visually</INSTRUCTIONS>
+				</STEP>
+				<!-- 2.5 -->
+				<STEP>
+					<INSTRUCTIONS>Check no oil, fuel, hydraulic fluid or coolanol leaks</INSTRUCTIONS>
+				</STEP>
+				<!-- 2.6 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of external stores, no shock mark or distortion (shake the external stores by hand to check correct attachment)</INSTRUCTIONS>
+					<COMMENTS>
+						<COMMENT type="note">Ask an armament operator to intervene in case a defect is noticed or if in doubt about external store integrity</COMMENT>
+					</COMMENTS>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 3 -->
+		<STEP>
+			<TITLE>Ground refueling panel check</TITLE>
+			<TARGET>rafale_highlight_03</TARGET>
+			<STEPS>
+				<!-- 3.1 -->
+				<STEP bookmark="true">
+					<INSTRUCTIONS>Open the GRP door</INSTRUCTIONS>
+					<REFERENCES>
+						<REFERENCE type="animation">
+							<NAME>anim_trappe_mecanicien</NAME>
+							<TITLE></TITLE>
+							<LINK>Step1</LINK>
+						</REFERENCE>				
+					</REFERENCES>
+				</STEP>
+				<!-- 3.2 -->
+				<STEP>
+					<INSTRUCTIONS>Set the FLT DISP RFL selector switch to DISP, then check that the APU indicator light goes out after 5 sec</INSTRUCTIONS>
+					<REFERENCES>
+						<REFERENCE type="animation">
+							<NAME>anim_trappe_mecanicien</NAME>
+							<TITLE></TITLE>
+							<LINK>Step2</LINK>
+						</REFERENCE>				
+						<REFERENCE type="animation">
+							<NAME>anim_trappe_mecanicien</NAME>
+							<TITLE></TITLE>
+							<LINK>Step3</LINK>
+						</REFERENCE>				
+					</REFERENCES>
+					<COMMENTS>
+						<COMMENT type="note">The fuel indicator lights are on when the fuel tanks are full and the ancillary system lights are out</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 3.3 -->
+				<STEP>
+					<INSTRUCTIONS>Perform a lamp test, then check that all the indicator lights go out</INSTRUCTIONS>
+					<REFERENCES>
+						<REFERENCE type="animation">
+							<NAME>anim_trappe_mecanicien</NAME>
+							<TITLE></TITLE>
+							<LINK>Step4</LINK>
+						</REFERENCE>				
+						<REFERENCE type="animation">
+							<NAME>anim_trappe_mecanicien</NAME>
+							<TITLE></TITLE>
+							<LINK>Step5</LINK>
+						</REFERENCE>				
+					</REFERENCES>
+					<COMMENTS>
+						<COMMENT type="note">Top up the relevant systems when indicator lights remain on</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 3.4 -->
+				<STEP>
+					<TITLE>Check the main battery voltage</TITLE>
+					<STEPS>
+						<!-- 3.4.1 -->
+						<STEP>
+							<INSTRUCTIONS>Put the rotary switch on MR</INSTRUCTIONS>
+							<REFERENCES>
+								<REFERENCE type="animation">
+									<NAME>anim_trappe_mecanicien</NAME>
+									<TITLE></TITLE>
+									<LINK>Step6</LINK>
+								</REFERENCE>				
+							</REFERENCES>
+						</STEP>
+						<!-- 3.4.2 -->
+						<STEP>
+							<INSTRUCTIONS>Put the selector FLT DISP RFL on RFL and the rotary switch on MBAT</INSTRUCTIONS>
+							<REFERENCES>
+								<REFERENCE type="animation">
+									<NAME>anim_trappe_mecanicien</NAME>
+									<TITLE></TITLE>
+									<LINK>Step7</LINK>
+								</REFERENCE>				
+							</REFERENCES>
+						</STEP>
+						<!-- 3.4.3 -->
+						<STEP>
+							<INSTRUCTIONS>Wait for 30s then check the indicated voltage minimum of 24,4V if external temperature is ≥ 0°C, and  23,5V if external temperature is ≤ 0°C</INSTRUCTIONS>
+							<REFERENCES>
+								<REFERENCE type="animation">
+									<NAME>anim_trappe_mecanicien</NAME>
+									<TITLE></TITLE>
+									<LINK>Step8</LINK>
+								</REFERENCE>				
+							</REFERENCES>
+							<COMMENTS>
+								<COMMENT type="note">These voltage are only to be taken into account if the battery was not activated from at least 3 hours</COMMENT>
+							</COMMENTS>
+						</STEP>
+						<!-- 3.4.4 -->
+						<STEP>
+							<INSTRUCTIONS>Replace the battery if it's voltage is lower than the minimum required</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 3.5 -->
+				<STEP>
+					<TITLE>Check the utility battery voltage</TITLE>
+					<STEPS>
+						<!-- 3.5.1 -->
+						<STEP>
+							<INSTRUCTIONS>Put the selector FLT DISP RFL on DISP and rotactor on UBAT</INSTRUCTIONS>
+							<REFERENCES>
+								<REFERENCE type="animation">
+									<NAME>anim_trappe_mecanicien</NAME>
+									<TITLE></TITLE>
+									<LINK>Step9</LINK>
+								</REFERENCE>				
+							</REFERENCES>
+						</STEP>
+						<!-- 3.5.2 -->
+						<STEP>
+							<INSTRUCTIONS>Check the indicated voltage - must be 24,7V ± 0,2V</INSTRUCTIONS>
+							<REFERENCES>
+								<REFERENCE type="animation">
+									<NAME>anim_trappe_mecanicien</NAME>
+									<TITLE></TITLE>
+									<LINK>Step10</LINK>
+								</REFERENCE>				
+							</REFERENCES>
+						</STEP>
+						<!-- 3.5.3 -->
+						<STEP>
+							<INSTRUCTIONS>Replace the battery if it's voltage is lower than the minimum required</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 3.6 -->
+				<STEP>
+					<INSTRUCTIONS>Set the FLT DISP RFL selector switch to FLT</INSTRUCTIONS>
+					<REFERENCES>
+						<REFERENCE type="animation">
+							<NAME>anim_trappe_mecanicien</NAME>
+							<TITLE></TITLE>
+							<LINK>Step11</LINK>
+						</REFERENCE>				
+					</REFERENCES>
+				</STEP>
+				<!-- 3.7 -->
+				<STEP>
+					<INSTRUCTIONS>Close the GRP door</INSTRUCTIONS>
+					<REFERENCES>
+						<REFERENCE type="animation">
+							<NAME>anim_trappe_mecanicien</NAME>
+							<TITLE></TITLE>
+							<LINK>Step12</LINK>
+						</REFERENCE>				
+					</REFERENCES>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 4 -->
+		<STEP>
+			<TITLE>Front fuselage section check</TITLE>
+			<TARGET>rafale_highlight_04</TARGET>
+			<STEPS>
+				<!-- 4.1 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall aspect of skin (riveting and hardware)</INSTRUCTIONS>
+				</STEP>
+				<!-- 4.2 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of nose fairing and of the radomes</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_cone_radar</TARGET>
+				</STEP>
+				<!-- 4.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of FSO and FMA top antenna</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_OSF1;rafale_highlight_04_OSF2;rafale_highlight_04_FMA_up</TARGET>
+				</STEP>
+				<!-- 4.4 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of FMA bottom antenna</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_FMA_down</TARGET>
+				</STEP>
+				<!-- 4.5 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of right LWD and formation light</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_DAL_droite;rafale_highlight_04_feux_formation_droite</TARGET>
+				</STEP>
+				<!-- 4.6 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of left LWD and formation light</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_DAL_gauche;rafale_highlight_04_feux_formation_gauche</TARGET>
+				</STEP>
+				<!-- 4.7 -->
+				<STEP>
+					<INSTRUCTIONS>Check cleanliness of windows</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_verriere</TARGET>
+				</STEP>
+				<!-- 4.8 -->
+				<STEP>
+					<INSTRUCTIONS>Check general condition of inflight refueling probe; in the event a defect is noticed, perform a visual inspection of the inflight refueling probe assembly</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_perche</TARGET>
+				</STEP>
+				<!-- 4.9 -->
+				<STEP>
+					<INSTRUCTIONS>Check skin, with the doors closed and locked</INSTRUCTIONS>
+				</STEP>
+				<!-- 4.10 -->
+				<STEP bookmark="true">
+					<INSTRUCTIONS>Check condition of mobile multifunction probes on the right side, making sure that holes are not blocked (do not set them to max deflection)</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_sonde_droite</TARGET>
+					<REFERENCES>
+						<REFERENCE type="animation">
+							<NAME>anim_sonde</NAME>
+							<TITLE></TITLE>
+							<LINK>Step1</LINK>
+						</REFERENCE>				
+					</REFERENCES>
+					<COMMENTS>
+						<COMMENT type="caution">Handle the multifunction probe vane by holding the pitot probe located at its end so as to avoid distorting it</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 4.11 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of mobile multifunction probes on the left side, making sure that holes are not blocked (do not set them to max deflection)</INSTRUCTIONS>
+					<TARGET>rafale_highlight_04_sonde_gauche</TARGET>
+					<REFERENCES>
+						<REFERENCE type="animation">
+							<NAME>anim_sonde</NAME>
+							<TITLE></TITLE>
+							<LINK>Step1</LINK>
+						</REFERENCE>				
+					</REFERENCES>
+					<COMMENTS>
+						<COMMENT type="caution">Handle the multifunction probe vane by holding the pitot probe located at its end so as to avoid distorting it</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 4.12 -->
+				<STEP>
+					<INSTRUCTIONS>Check for electrolyte traces at the main battery ventilation ports</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 5 -->
+		<STEP>
+			<TITLE>Nose U/C and nose wheel well inspection</TITLE>
+			<TARGET>rafale_highlight_05</TARGET>
+			<STEPS>
+				<!-- 5.1 -->
+				<STEP>
+					<INSTRUCTIONS>Open the front nose U/C door</INSTRUCTIONS>
+				</STEP>
+				<!-- 5.2 -->
+				<STEP>
+					<TITLE>Nose U/C Inspection</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check condition of U/C door, side doors and control linkages</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check presence and good condition of U/C door stops</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check correct opening of U/C hooking mechanism</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check good condition and free rotation of U/C and U/C door olive fittings</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check overall condition of U/C wheel well layout</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check no distortion, cut and shock mark on pipes, wiring, connectors and equipment</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 5.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check that the operating pressure of the parking brake accumulator is 110 bar</INSTRUCTIONS>
+				</STEP>
+				<!-- 5.4 -->
+				<STEP>
+					<INSTRUCTIONS>If required, use the hand-actuated pump to restore the correct pressure</INSTRUCTIONS>
+					<COMMENTS>
+						<COMMENT type="note">The nitrogen inflation residual pressure is 60 bar minimum</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 5.5 -->
+				<STEP>
+					<INSTRUCTIONS>Check the nose undercarriage</INSTRUCTIONS>
+				</STEP>
+				<!-- 5.6 -->
+				<STEP>
+					<INSTRUCTIONS>Close the front nose U/C door</INSTRUCTIONS>
+				</STEP>
+				<!-- 5.7 -->
+				<STEP>
+					<INSTRUCTIONS>Check the condition of the tyres</INSTRUCTIONS>
+				</STEP>
+				<!-- 5.8 -->
+				<STEP>
+					<INSTRUCTIONS>Check the wheel inflation</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 6 -->
+		<STEP>
+			<TITLE>RH air intake inspection (frames C.17 to C.27)</TITLE>
+			<TARGET>rafale_highlight_06</TARGET>
+			<STEPS>
+				<!-- 6.1 -->
+				<STEP>
+					<TITLE>External skin</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check overall aspect of skin (riveting and hardware)</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check general condition of boundary layer bleed and absence of foreign matter</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check aspect and attachment of RFA, damage indicator paint not visible</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check condition and deflection of additional air intake side door and presence of rubber stops</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check condition and presence of mouth and side foam discs if gun installed and DAMOCLES pod not installed</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check condition and presence of mouth and side metal discs if gun not installed</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check absence of mouth and side discs if gun and DAMOCLES pod installed</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check condition of glass cover of lower anti-collision light</INSTRUCTIONS>
+						</STEP>						
+						<STEP>
+							<INSTRUCTIONS>Check overall condition of canard and surrounding area (lower surface, leading edge, LERX)</INSTRUCTIONS>
+						</STEP>						
+						<STEP>
+							<INSTRUCTIONS>Check closing of gun barrel removal doors and condition of ventilation scoops</INSTRUCTIONS>
+						</STEP>						
+						<STEP>
+							<INSTRUCTIONS>Check closing of FCS and right ground crew panel doors</INSTRUCTIONS>
+							<COMMENTS>
+								<COMMENT type="note">If the doors are open, set the switches to FLT before closing the doors</COMMENT>
+							</COMMENTS>
+						</STEP>												
+					</STEPS>
+				</STEP>
+				<!-- 6.2 -->
+				<STEP>
+					<TITLE>Right engine air duct and front section</TITLE>
+					<COMMENTS>
+						<COMMENT type="caution">Make sure that clothes and shoes (no grazing parts) will not damage the skin before entering the duct</COMMENT>
+					</COMMENTS>
+					<STEPS>
+						<STEP>
+							<TITLE>Air duct skin inspection</TITLE>
+							<STEPS>
+								<STEP>
+									<INSTRUCTIONS>Check for impacts on air intake sharp leading edge</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check for missing rivet heads and loosened screws</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check for impacts on the skin</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check for fuel leaks</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check for condition of temperature sensor (at 12 o'clock position)</INSTRUCTIONS>
+								</STEP>
+							</STEPS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Inspect the engine front area</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Exit the air duct while making sure that there is no foreign matter</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+			</STEPS>
+		</STEP>		
+		
+		<!-- 7 -->
+		<STEP>
+			<TITLE>Inspection of RH lower fuselage (frames C.27 to C.41)</TITLE>
+			<TARGET>rafale_highlight_07</TARGET>
+			<STEPS>
+				<!-- 7.1 -->
+				<STEP>
+					<INSTRUCTIONS>Check the overall aspect of fuselage skin, riveting, hardware and check for leaks (in particular at the RH accessory gearbox drain ports)</INSTRUCTIONS>
+					<REFERENCES>
+						<REFERENCE type="figure">
+							<FIGREF REFID="FIG16" TARGET="8-SPOT"/>
+							<NAME></NAME>
+							<LINK>VJ-FIG16.png</LINK>
+						</REFERENCE>
+					</REFERENCES>
+				</STEP>
+				<!-- 7.2 -->
+				<STEP>
+					<INSTRUCTIONS>Check the closing of the gun door</INSTRUCTIONS>
+				</STEP>
+				<!-- 7.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check that C2 accumulator pressure ≥ 140 bar</INSTRUCTIONS>
+					<TARGET>rafale_highlight_07_c2</TARGET>
+					<REFERENCES>
+						<REFERENCE type="figure">
+							<FIGREF REFID="FIG01"/>
+							<NAME></NAME>
+							<LINK>VJ-FIG01.png</LINK>
+						</REFERENCE>
+					</REFERENCES>
+				</STEP>
+				<!-- 7.4 -->
+				<STEP>
+					<TITLE>RH main U/C and wheel well inspection</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Open the main U/C door</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<TITLE>Inspection of RH main U/C</TITLE>
+							<STEPS>
+								<STEP>
+									<INSTRUCTIONS>Check condition of U/C door</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check presence and good condition of U/C door stop</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check good condition and free rotation of U/C and U/C door olive fittings</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check correct opening of U/C hooking mechanism</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check overall condition of U/C wheel well layout</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check no distortion, cut and shock mark on pipes, wiring, connectors and equipment</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check condition and attachment of electrical master box and utility battery</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check locking of ammunition box</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check condition and closing of parallelogram hinged structure isolation doors</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check condition of shield door and its rod and presence of pin</INSTRUCTIONS>
+								</STEP>
+							</STEPS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check the RH main U/C</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Close the U/C door (1 lock)</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check height of shock absorber</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check the tyre condition</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check the tyre pressure</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<TITLE>Check of brake assembly</TITLE>
+							<COMMENTS>
+								<COMMENT type="warning">Make sure that the brakes have cooled down enough before starting any maintenance operations on them (risks of severe burns)</COMMENT>
+							</COMMENTS>
+							<STEPS>
+								<STEP>
+									<INSTRUCTIONS>Actuate the wear indicators to make sure that the thrust plate is not stuck</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Press on the wear indicators to take up the thrust plate play</INSTRUCTIONS>
+									<COMMENTS>
+										<COMMENT type="note">The limit is reached when the indicator is flush with the reference surface (parking brake aplied or released)</COMMENT>
+									</COMMENTS>
+								</STEP>
+							</STEPS>
+						</STEP>
+					</STEPS>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 8 -->
+		<STEP>
+			<TITLE>RH wing inspection (lower surface and external stores)</TITLE>
+			<TARGET>rafale_highlight_08</TARGET>
+			<STEPS>
+				<!-- 8.1 -->
+				<STEP>
+					<INSTRUCTIONS>Check good condition of navigation light transparent panel</INSTRUCTIONS>
+				</STEP>
+				<!-- 8.2 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall aspect of skin (riveting and hardware, doors and fairings)</INSTRUCTIONS>
+				</STEP>
+				<!-- 8.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of slat leading edge</INSTRUCTIONS>
+				</STEP>
+				<!-- 8.4 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of wing tip missile launcher lights</INSTRUCTIONS>
+				</STEP>
+				<!-- 8.5 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of elevons</INSTRUCTIONS>
+				</STEP>
+				<!-- 8.6 -->
+				<STEP>
+					<INSTRUCTIONS>Check no hydraulic fluid and fuel leaks</INSTRUCTIONS>
+				</STEP>
+				<!-- 8.7 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of store carrying devices and external stores installed under the wing</INSTRUCTIONS>
+					<COMMENTS>
+						<COMMENT type="note">Also check locking of external stores, that there is no leaks, no distortions, etc.</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 8.8 -->
+				<STEP>
+					<INSTRUCTIONS>Correct closing and locking of suction defuelling and filler plugs (wing and external tanks)</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 9 -->
+		<STEP>
+			<TITLE>Inspection of RH lower fuselage (frames C.27 to C.41) (cont'd)</TITLE>
+			<TARGET>rafale_highlight_09</TARGET>
+			<STEPS>
+				<!-- 9.1 -->
+				<STEP>
+					<INSTRUCTIONS>Make sure that the air-fuel heat exchanger scoop is not distorted and contains no foreign matters when it is open</INSTRUCTIONS>
+				</STEP>
+				<!-- 9.2 -->
+				<STEP>
+					<INSTRUCTIONS>Make sure that the alternator cooling scoop is not distorted and contains no foreign matters</INSTRUCTIONS>
+				</STEP>
+				<!-- 9.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of lateral store station missile and missile launcher</INSTRUCTIONS>
+				</STEP>
+				<!-- 9.4 -->
+				<STEP>
+					<TITLE>Central store station</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check overall condition of store carrying devices and external stores installed under the fuselage</INSTRUCTIONS>
+							<COMMENTS>
+								<COMMENT type="note">Also check locking of external stores, that there is no leaks, no distortions, etc.</COMMENT>
+							</COMMENTS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check correct closing and locking of suction defuelling and filler plugs (fuselage and external tanks)</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 9.5 -->
+				<STEP>
+					<TITLE>Arrester hook</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check that the safety pin is installed</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check that the actuator pressure is equal to 198 bar at 20 °C</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 9.6 -->
+				<STEP>
+					<INSTRUCTIONS>Check the engine rear section and exhaust duct</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>
+		
+		<!-- 10 -->
+		<STEP>
+			<TITLE>Fin inspection</TITLE>
+			<TARGET>rafale_highlight_10</TARGET>
+			<STEPS>
+				<!-- 10.1 -->
+				<STEP>
+					<INSTRUCTIONS>While standing on the ground, check general aspect of skin</INSTRUCTIONS>
+				</STEP>
+				<!-- 10.2 -->
+				<STEP>
+					<INSTRUCTIONS>While standing on the ground, check condition of trailing edge and rudder</INSTRUCTIONS>
+				</STEP>
+				<!-- 10.3 -->
+				<STEP>
+					<INSTRUCTIONS>While standing on the ground, check condition of navigation light</INSTRUCTIONS>
+				</STEP>
+				<!-- 10.4 -->
+				<STEP>
+					<INSTRUCTIONS>While standing on the ground, check no fuel, hydraulic fluid and coolanol leaks</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>
+
+		<!-- 11 -->
+		<STEP>
+			<TITLE>Inspection of LH lower fuselage (frames C.27 to C.41)</TITLE>
+			<TARGET>rafale_highlight_11</TARGET>
+			<STEPS>
+				<!-- 11.1 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall aspect of fuselage skin, riveting, hardware and check for leaks (in particular at the LH accessory gearbox drain ports)</INSTRUCTIONS>
+					<REFERENCES>
+						<REFERENCE type="figure">
+							<FIGREF REFID="FIG15" TARGET="4-SPOT"/>
+							<NAME></NAME>
+							<LINK>VJ-FIG15.png</LINK>
+						</REFERENCE>
+					</REFERENCES>
+				</STEP>
+				<!-- 11.2 -->
+				<STEP>
+					<INSTRUCTIONS>From the outside, the engine rear section and exhaust duct for burns, distortions and impacts</INSTRUCTIONS>
+				</STEP>
+				<!-- 11.3 -->
+				<STEP>
+					<INSTRUCTIONS>Overall condition of lateral store station missile and missile launcher</INSTRUCTIONS>
+				</STEP>
+				<!-- 11.4 -->
+				<STEP>
+					<TITLE>Central store station</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check overall condition of store carrying devices and external stores installed under the fuselage</INSTRUCTIONS>
+							<COMMENTS>
+								<COMMENT type="note">Also check locking of external stores, that there is no leaks, no distortions, etc.</COMMENT>
+							</COMMENTS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check correct closing and locking of suction defuelling and filler plugs (fuselage and external tanks)</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Make sure that the alternator cooling scoop is not distorted and contains no foreign matters</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Make sure the air-fuel heat exchanger scoop is not distorted and contains no foreign matters when it is open</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+			</STEPS>
+		</STEP>
+		
+		<!-- 12 -->
+		<STEP>
+			<TITLE>LH wing inspection (lower surface and external stores)</TITLE>
+			<TARGET>rafale_highlight_12</TARGET>
+			<STEPS>
+				<!-- 12.1 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall aspect of skin (riveting and hardware, doors and fairings)</INSTRUCTIONS>
+				</STEP>
+				<!-- 12.2 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of elevons</INSTRUCTIONS>
+				</STEP>
+				<!-- 12.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of wing tip missile launcher lights</INSTRUCTIONS>
+				</STEP>
+				<!-- 12.4 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of slat leading edge</INSTRUCTIONS>
+				</STEP>
+				<!-- 12.5 -->
+				<STEP>
+					<INSTRUCTIONS>Check good condition of navigation light and searchlight transparent panels</INSTRUCTIONS>
+				</STEP>
+				<!-- 12.6 -->
+				<STEP>
+					<INSTRUCTIONS>Check no hydraulic fluid and fuel leaks</INSTRUCTIONS>
+				</STEP>
+				<!-- 12.7 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of store carrying devices and external stores installed under the wing</INSTRUCTIONS>
+					<COMMENTS>
+						<COMMENT type="note">Also check locking of external stores, that there is no leaks, no distortions, etc.</COMMENT>
+					</COMMENTS>
+				</STEP>
+				<!-- 12.8 -->
+				<STEP>
+					<INSTRUCTIONS>Check correct closing and locking of suction defuelling and filler plugs (wing and external tanks)</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>
+		
+		<!-- 13 -->
+		<STEP>
+			<TITLE>LH main U/C and wheel well inspection</TITLE>
+			<TARGET>rafale_highlight_13</TARGET>
+			<STEPS>
+				<!-- 13.1 -->
+				<STEP>
+					<INSTRUCTIONS>Open the main U/C door</INSTRUCTIONS>
+				</STEP>
+				<!-- 13.2 -->
+				<STEP>
+					<TITLE>LH main U/C inspection</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check condition of U/C door</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check presence and good condition of U/C door stop</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check good condition and free rotation of U/C and U/C door olive fittings</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check correct opening of U/C hooking mechanism</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check overall condition of U/C wheel well layout</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check no distortion, cut and shock mark on pipes, wiring, connectors and equipment</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check condition and attachment of electrical master box and U/C-U/C door system control unit</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check C1 accumulator pressure ≥ 140 bar</INSTRUCTIONS>
+							<TARGET>rafale_highlight_13_c1</TARGET>
+							<REFERENCES>
+								<REFERENCE type="figure">
+									<FIGREF REFID="FIG01"/>
+									<NAME></NAME>
+									<LINK>VJ-FIG01.png</LINK>
+								</REFERENCE>
+							</REFERENCES>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check condition of shield door and its rod and presence of pin</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 13.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check the LH main U/C</INSTRUCTIONS>
+				</STEP>
+				<!-- 13.4 -->
+				<STEP>
+					<INSTRUCTIONS>Close the U/C door (1 lock)</INSTRUCTIONS>
+				</STEP>
+				<!-- 13.5 -->
+				<STEP>
+					<INSTRUCTIONS>Check height of shock absorber</INSTRUCTIONS>
+				</STEP>
+				<!-- 13.6 -->
+				<STEP>
+					<INSTRUCTIONS>Check the tyre condition</INSTRUCTIONS>
+				</STEP>
+				<!-- 13.7 -->
+				<STEP>
+					<INSTRUCTIONS>Check the tyre pressure</INSTRUCTIONS>
+				</STEP>
+				<!-- 13.8 -->
+				<STEP>
+					<TITLE>Check of brake assembly</TITLE>
+					<COMMENTS>
+						<COMMENT type="warning">Make sure that the brakes have cooled down enough before starting any maintenance operations on them (risks of severe burns)</COMMENT>
+					</COMMENTS>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Actuate the wear indicators to make sure that the thrust plate is not stuck</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Press on the wear indicators to take up the thrust plate play</INSTRUCTIONS>
+							<COMMENTS>
+								<COMMENT type="note">The limit is reached when the indicator is flush with the reference surface (parking brake aplied or released)</COMMENT>
+							</COMMENTS>
+						</STEP>
+					</STEPS>
+				</STEP>
+			</STEPS>
+		</STEP>
+		
+		<!-- 14 -->
+		<STEP>
+			<TITLE>LH air intake inspection (frames C.17 to C.27)</TITLE>
+			<TARGET>rafale_highlight_14</TARGET>
+			<STEPS>
+				<!-- 14.1 -->
+				<STEP>
+					<TITLE>Maintenance Data Storage Unit (DSU)</TITLE>
+					<TARGET>rafale_highlight_14_bsdm</TARGET>
+					<STEPS>
+						<STEP bookmark="true">
+							<INSTRUCTIONS>Check that the removable memory cartridge is installed in the DSU box</INSTRUCTIONS>
+							<REFERENCES>
+								<REFERENCE type="animation">
+									<NAME>anim_bsdm</NAME>
+									<TITLE></TITLE>
+									<LINK>Step1</LINK>
+								</REFERENCE>				
+								<REFERENCE type="animation">
+									<NAME>anim_bsdm</NAME>
+									<TITLE></TITLE>
+									<LINK>Step2</LINK>
+								</REFERENCE>				
+								<REFERENCE type="animation">
+									<NAME>anim_bsdm</NAME>
+									<TITLE></TITLE>
+									<LINK>Step3</LINK>
+								</REFERENCE>				
+								<REFERENCE type="animation">
+									<NAME>anim_bsdm</NAME>
+									<TITLE></TITLE>
+									<LINK>Step4</LINK>
+								</REFERENCE>				
+							</REFERENCES>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 14.2 -->
+				<STEP>
+					<TITLE>Left ground crew panel</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check the light filaments</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 14.3 -->
+				<STEP>
+					<TITLE>External skin</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check overall aspect of skin (riveting and hardware)</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check general condition of boundary layer bleed and absence of foreign matter</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check aspect and attachment of RFA, damage indicator paint not visible</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check condition and deflection of additional air intake side door and presence of the rubber stops</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check overall condition of canard and surrounding area (lower surface, leading edge, LERX)</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 14.4 -->
+				<STEP>
+					<TITLE>Left engine air duct and front section</TITLE>
+					<COMMENTS>
+						<COMMENT type="caution">Make sure that clothes and shoes (no grazing parts) will not damage the skin before entering the duct</COMMENT>
+					</COMMENTS>
+					<STEPS>
+						<STEP>
+							<TITLE>Air duct inspection</TITLE>
+							<STEPS>
+								<STEP>
+									<INSTRUCTIONS>Check for impacts on air intake sharp leading edge</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check for missing rivet heads and losened scrrews</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check for impacts on the skin</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check for fuel leaks</INSTRUCTIONS>
+								</STEP>
+								<STEP>
+									<INSTRUCTIONS>Check the condition of temperature sensor (at 12 o'clock position)</INSTRUCTIONS>
+								</STEP>
+							</STEPS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Inspect the engine front area</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Exit the air duct while making sure that there is no foreign matter</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+			</STEPS>
+		</STEP>		
+		
+		<!-- 15 -->
+		<STEP>
+			<TITLE>Inspection of fin and fuselage and wing upper surface</TITLE>
+			<TARGET>rafale_highlight_15</TARGET>
+			<STEPS>
+				<!-- 15.1 -->
+				<STEP>
+					<INSTRUCTIONS>Use the ladder to gain access to the upper section of the aircraft</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.2 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall aspect of skins, riveting, hardware, door and panel attachment</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.3 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of fin top equipment, cleanliness of windows and MWS, and clean them if required</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.4 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of formation light</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.5 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of cartridge dispenser modules: locking of loaders (yellow mark) and no foreign matters</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.6 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of rudder</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.7 -->
+				<STEP>
+					<INSTRUCTIONS>Check that the cooling scoops in the APU area are neither blocked nor distorted</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.8 -->
+				<STEP>
+					<INSTRUCTIONS>Check that the APU exhaust nozzle is not distorted, bears no mark of burns and contains no foreign matters</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.9 -->
+				<STEP>
+					<INSTRUCTIONS>Check that the APU bleed valve outlet is neither blocked nor distorted</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.10 -->
+				<STEP>
+					<INSTRUCTIONS>Check that the fuel heat exchanger air outlets (in fillets) are not distorted and contain no foreign matters</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.11 -->
+				<STEP>
+					<INSTRUCTIONS>Check that the gun cooling outlet (in fillet) is not distorted and contains no foreign matters</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.12 -->
+				<STEP>
+					<INSTRUCTIONS>Check correct closing and locking of feeder tank and front tank group filler plugs</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.13 -->
+				<STEP>
+					<INSTRUCTIONS>Check condition of anti-collision light and antennas</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.14 -->
+				<STEP>
+					<INSTRUCTIONS>Check that the heat exchanger air outlet is not distorted and contains no foreign matters</INSTRUCTIONS>
+				</STEP>
+				<!-- 15.15 -->
+				<STEP>
+					<INSTRUCTIONS>Check overall condition of each canard (leading edge in particular) and LERX</INSTRUCTIONS>
+				</STEP>
+			</STEPS>
+		</STEP>		
+
+		<!-- 19 -->
+		<STEP>
+			<TITLE>Canopy external inspection</TITLE>
+			<TARGET>rafale_highlight_19</TARGET>
+			<STEPS>
+				<!-- 19.1 -->
+				<STEP>
+					<TITLE>Inspection check with canopy closed</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check correct positioning of the canopy in relation to the fuselage</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check no distortion</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check cleanliness of the outer surface of the transparent panels; if not clean them</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check good condition of DACRON hinges and cement chamfers</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check no erosion and no unsticking</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check good condition of canopy-cutting external controls</INSTRUCTIONS>
+						</STEP>
+					</STEPS>
+				</STEP>
+				<!-- 19.2 -->
+				<STEP>
+					<TITLE>Inspection check through the canopy</TITLE>
+					<STEPS>
+						<STEP>
+							<INSTRUCTIONS>Check general aspect of the cockpit</INSTRUCTIONS>
+						</STEP>
+						<STEP>
+							<INSTRUCTIONS>Check aspect of detonating cords: overall good condition of cords and bearing surfaces</INSTRUCTIONS>
+							<COMMENTS>
+								<COMMENT type="note">If in doubt about possible damage, observe the damage tolerance instructions</COMMENT>
+							</COMMENTS>
+						</STEP>
+					</STEPS>
+				</STEP>
+			</STEPS>
+		</STEP>		
+	</STEPS>
+</PROCEDURE>
